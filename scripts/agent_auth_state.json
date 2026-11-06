@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "d673ded8c46862fb4f",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-06T15:51:21.713464+00:00",
+  "updated_at": "2026-11-06T15:51:24.548677+00:00",
   "telegram_session_string": "ENC1:bviezjaarFAHthHwkyGl6WJQhSeVkpeHtlenj5iFk8gJwr7qMYeDXAq6VqGcQLjlVle7cKb20YDZX6iC1ZqR7nL/sMBzuYEvAZRVpf4+loF3I6Uhy+z25eF3iInbr7LdO9uX6TeUvxs8q278jjKx9GInsC+t6erA+F2MmseXi8By7rnzE+ScURqhVaP/RrXhaimmPJHE3ofQWcij6rO+wBTgsM4smaIBHLdu0ZoauOlKKOc8kpOU0vJ8k7rWtLuWctS50wa20TgKgkHdugax8BVJ+wK495L631WsgZ7xksUJ7a3uLIbVPzykStTkF7KGVyO6A7aRy4S3CMqz57el4W3+uJcUs4MYcrFO5Yc8ksVtL6whgfWcx7Fpr9zHr6riG/mgjHC7qDgTtnmggQGVg0FXpnzN4daBxmbLrvyUzJwnz/GXAp6oJCSacuWaQ+LqHCWsL6jk1Ia0apCOxLus12I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -17,8 +17,8 @@
     "status": "RUNNING",
     "completed_items": 2,
     "total_items": 13,
-    "current_item_title": "✅ [2] AI-এর ইতিহাস - শুরু থেকে বর্তমান",
-    "status_message": "আপলোড চলছে: 🎬 2টি ভিডিও ও 📄 0টি স্লাইড আপলোড হয়েছে।",
+    "current_item_title": "[3/13] 🎬 ভিডিও ডাউনলোড ও আপলোড: প্রতিদিনের জীবনে AI-এর ব্যবহার",
+    "status_message": "ভিডিও ডাউনলোড ও টেলিগ্রামে আপলোড হচ্ছে (3/13): প্রতিদিনের জীবনে AI-এর ব্যবহার",
     "target_chat_id": "-1004317070379",
     "telegram_invite_link": "https://t.me/+og-6UlhePzszOWQ1",
     "github_run_id": "42245329825"
