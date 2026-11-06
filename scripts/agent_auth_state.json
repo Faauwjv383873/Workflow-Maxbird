@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "d673ded8c46862fb4f",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-06T16:50:38.673247+00:00",
+  "updated_at": "2026-11-06T16:50:43.350491+00:00",
   "telegram_session_string": "ENC1:bviezjaarFAHthHwkyGl6WJQhSeVkpeHtlenj5iFk8gJwr7qMYeDXAq6VqGcQLjlVle7cKb20YDZX6iC1ZqR7nL/sMBzuYEvAZRVpf4+loF3I6Uhy+z25eF3iInbr7LdO9uX6TeUvxs8q278jjKx9GInsC+t6erA+F2MmseXi8By7rnzE+ScURqhVaP/RrXhaimmPJHE3ofQWcij6rO+wBTgsM4smaIBHLdu0ZoauOlKKOc8kpOU0vJ8k7rWtLuWctS50wa20TgKgkHdugax8BVJ+wK495L631WsgZ7xksUJ7a3uLIbVPzykStTkF7KGVyO6A7aRy4S3CMqz57el4W3+uJcUs4MYcrFO5Yc8ksVtL6whgfWcx7Fpr9zHr6riG/mgjHC7qDgTtnmggQGVg0FXpnzN4daBxmbLrvyUzJwnz/GXAp6oJCSacuWaQ+LqHCWsL6jk1Ia0apCOxLus12I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -65,6 +65,16 @@
       "topics": []
     },
     {
+      "id": "-1003245997544",
+      "title": "POWER PLAY 27",
+      "username": "POWER_PLAY_2027",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": true,
+      "can_post": true,
+      "topics": []
+    },
+    {
       "id": "-1001917138540",
       "title": "Getmodpc's family",
       "username": "Getmodpc_family",
@@ -85,21 +95,21 @@
       "topics": []
     },
     {
-      "id": "-1003245997544",
-      "title": "POWER PLAY 27",
-      "username": "POWER_PLAY_2027",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": true,
-      "can_post": true,
-      "topics": []
-    },
-    {
       "id": "-1002642154956",
       "title": "𝐋𝐞𝐭'𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬",
       "username": "STUDY_ROOM_DISCUSSION",
       "is_channel": false,
       "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004317070379",
+      "title": "Think AI",
+      "username": "",
+      "is_channel": true,
+      "is_megagroup": false,
       "is_forum": false,
       "can_post": true,
       "topics": []
@@ -125,22 +135,22 @@
       "topics": []
     },
     {
-      "id": "-1002289335186",
-      "title": "B BONGO MEMBERS CHAT",
-      "username": "bbongoarif",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
       "id": "-1003848557590",
       "title": "𝐒𝐇𝐈𝐊𝐇𝐎 𝐇𝐒𝐂27 𝐀𝐂𝐀𝐃𝐄𝐌𝐈𝐂 𝐅𝐑𝐄𝐄",
       "username": "shikho_academic_free_coursehsc27",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": true,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1002289335186",
+      "title": "B BONGO MEMBERS CHAT",
+      "username": "bbongoarif",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
       "can_post": true,
       "topics": []
     },
@@ -220,16 +230,6 @@
       "username": "",
       "is_channel": false,
       "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004386596804",
-      "title": "Shnshnskddjddbdnd",
-      "username": "hddbbdhdbdbbebebhff",
-      "is_channel": true,
-      "is_megagroup": false,
       "is_forum": false,
       "can_post": true,
       "topics": []
