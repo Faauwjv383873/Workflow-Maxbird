@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "d673ded8c46862fb4f",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-06T17:19:10.830771+00:00",
+  "updated_at": "2026-11-06T17:19:14.781955+00:00",
   "telegram_session_string": "ENC1:bviezjaarFAHthHwkyGl6WJQhSeVkpeHtlenj5iFk8gJwr7qMYeDXAq6VqGcQLjlVle7cKb20YDZX6iC1ZqR7nL/sMBzuYEvAZRVpf4+loF3I6Uhy+z25eF3iInbr7LdO9uX6TeUvxs8q278jjKx9GInsC+t6erA+F2MmseXi8By7rnzE+ScURqhVaP/RrXhaimmPJHE3ofQWcij6rO+wBTgsM4smaIBHLdu0ZoauOlKKOc8kpOU0vJ8k7rWtLuWctS50wa20TgKgkHdugax8BVJ+wK495L631WsgZ7xksUJ7a3uLIbVPzykStTkF7KGVyO6A7aRy4S3CMqz57el4W3+uJcUs4MYcrFO5Yc8ksVtL6whgfWcx7Fpr9zHr6riG/mgjHC7qDgTtnmggQGVg0FXpnzN4daBxmbLrvyUzJwnz/GXAp6oJCSacuWaQ+LqHCWsL6jk1Ia0apCOxLus12I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -55,26 +55,6 @@
       "topics": []
     },
     {
-      "id": "-1004468782705",
-      "title": "HSC '27 মানবিক - ২য় বর্ষ প্রস্তুতি — কৃষি শিক্ষা ১ম পত্র",
-      "username": "",
-      "is_channel": true,
-      "is_megagroup": false,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004486640533",
-      "title": "Nexventa Group",
-      "username": "NexventaChat",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
       "id": "-1003245997544",
       "title": "POWER PLAY 27",
       "username": "POWER_PLAY_2027",
@@ -90,6 +70,36 @@
       "username": "STUDY_ROOM_DISCUSSION",
       "is_channel": false,
       "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004486640533",
+      "title": "Nexventa Group",
+      "username": "NexventaChat",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1002289335186",
+      "title": "B BONGO MEMBERS CHAT",
+      "username": "bbongoarif",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004384836219",
+      "title": "HSC '27 মানবিক - ২য় বর্ষ প্রস্তুতি",
+      "username": "",
+      "is_channel": true,
+      "is_megagroup": false,
       "is_forum": false,
       "can_post": true,
       "topics": []
@@ -115,31 +125,11 @@
       "topics": []
     },
     {
-      "id": "-1004317070379",
-      "title": "Think AI",
-      "username": "",
-      "is_channel": true,
-      "is_megagroup": false,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
       "id": "-1004472095908",
       "title": "𝐃𝐞𝐯𝐢𝐧𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 chat",
       "username": "devinechat",
       "is_channel": false,
       "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1003923949277",
-      "title": "HSC '27 মানবিক - ২য় বর্ষ প্রস্তুতি",
-      "username": "",
-      "is_channel": true,
-      "is_megagroup": false,
       "is_forum": false,
       "can_post": true,
       "topics": []
@@ -151,16 +141,6 @@
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": true,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1002289335186",
-      "title": "B BONGO MEMBERS CHAT",
-      "username": "bbongoarif",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
       "can_post": true,
       "topics": []
     },
@@ -231,6 +211,26 @@
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": true,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004395971707",
+      "title": "Shikkhaloy chat",
+      "username": "",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004386596804",
+      "title": "Shnshnskddjddbdnd",
+      "username": "hddbbdhdbdbbebebhff",
+      "is_channel": true,
+      "is_megagroup": false,
+      "is_forum": false,
       "can_post": true,
       "topics": []
     }
