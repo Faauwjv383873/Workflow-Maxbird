@@ -9,7 +9,18 @@
   "telegram_auth_message": "\u2705 \u099f\u09c7\u09b2\u09bf\u0997\u09cd\u09b0\u09be\u09ae \u09b8\u09ab\u09b2\u09ad\u09be\u09ac\u09c7 \u0995\u09be\u09a8\u09c7\u0995\u09cd\u099f \u09b9\u09df\u09c7\u099b\u09c7! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "d673ded8c46862fb4f",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-06T11:10:07.229432+00:00",
+  "updated_at": "2026-11-06T12:30:27.667538+00:00",
   "telegram_session_string": "ENC1:bviezjaarFAHthHwkyGl6WJQhSeVkpeHtlenj5iFk8gJwr7qMYeDXAq6VqGcQLjlVle7cKb20YDZX6iC1ZqR7nL/sMBzuYEvAZRVpf4+loF3I6Uhy+z25eF3iInbr7LdO9uX6TeUvxs8q278jjKx9GInsC+t6erA+F2MmseXi8By7rnzE+ScURqhVaP/RrXhaimmPJHE3ofQWcij6rO+wBTgsM4smaIBHLdu0ZoauOlKKOc8kpOU0vJ8k7rWtLuWctS50wa20TgKgkHdugax8BVJ+wK495L631WsgZ7xksUJ7a3uLIbVPzykStTkF7KGVyO6A7aRy4S3CMqz57el4W3+uJcUs4MYcrFO5Yc8ksVtL6whgfWcx7Fpr9zHr6riG/mgjHC7qDgTtnmggQGVg0FXpnzN4daBxmbLrvyUzJwnz/GXAp6oJCSacuWaQ+LqHCWsL6jk1Ia0apCOxLus12I=",
-  "telegram_account_name": "Maxbird (@MaxbirdPro)"
+  "telegram_account_name": "Maxbird (@MaxbirdPro)",
+  "active_task": {
+    "id": "task_1793968181405",
+    "status": "RUNNING",
+    "completed_items": 0,
+    "total_items": 0,
+    "current_item_title": "",
+    "status_message": "\u099f\u09c7\u09b2\u09bf\u0997\u09cd\u09b0\u09be\u09ae \u0985\u09cd\u09af\u09be\u0995\u09be\u0989\u09a8\u09cd\u099f \u0993 \u0995\u09cb\u09b0\u09cd\u09b8\u09c7\u09b0 \u09b8\u09be\u09b0\u09cd\u09ad\u09be\u09b0\u09c7\u09b0 \u09b8\u09be\u09a5\u09c7 \u09b8\u0982\u09af\u09cb\u0997 \u09b8\u09cd\u09a5\u09be\u09aa\u09a8 \u0995\u09b0\u09be \u09b9\u099a\u09cd\u099b\u09c7...",
+    "target_chat_id": "",
+    "telegram_invite_link": "",
+    "github_run_id": "42218102195"
+  }
 }
