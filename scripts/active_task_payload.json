@@ -1,0 +1,24 @@
+{
+  "task_id": "task_1793983789062",
+  "updated_at": 1793983796181,
+  "lessons": [
+    {
+      "id": "69f19efc41276c770e007b21",
+      "content_id": "69f19efc41276c770e007b20",
+      "live_class_id": "69f19efc41276c770e007b20",
+      "session_id": "",
+      "candidate_ids": [
+        "69f19efc41276c770e007b20",
+        "69f19efc41276c770e007b21"
+      ],
+      "title": "AI শেখার সহজ শুরু",
+      "content_type": "LiveClass",
+      "subject_code": "176161067",
+      "subject_name": "Think AI",
+      "chapter_id": "5995a8d6-489e-4ad9-988b-405b538056b6",
+      "chapter_name": "AI-এর পরিচিতি ও মৌলিক ধারণা",
+      "teacher_name": "Ishmam Ahmed Chowdhury",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/de00adf0-974f-4845-80a7-3c91231e4029\/playlist.m3u8"
+    }
+  ]
+}
