@@ -9,19 +9,19 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "d673ded8c46862fb4f",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-06T17:23:16.481870+00:00",
+  "updated_at": "2026-11-06T17:24:39.758267+00:00",
   "telegram_session_string": "ENC1:bviezjaarFAHthHwkyGl6WJQhSeVkpeHtlenj5iFk8gJwr7qMYeDXAq6VqGcQLjlVle7cKb20YDZX6iC1ZqR7nL/sMBzuYEvAZRVpf4+loF3I6Uhy+z25eF3iInbr7LdO9uX6TeUvxs8q278jjKx9GInsC+t6erA+F2MmseXi8By7rnzE+ScURqhVaP/RrXhaimmPJHE3ofQWcij6rO+wBTgsM4smaIBHLdu0ZoauOlKKOc8kpOU0vJ8k7rWtLuWctS50wa20TgKgkHdugax8BVJ+wK495L631WsgZ7xksUJ7a3uLIbVPzykStTkF7KGVyO6A7aRy4S3CMqz57el4W3+uJcUs4MYcrFO5Yc8ksVtL6whgfWcx7Fpr9zHr6riG/mgjHC7qDgTtnmggQGVg0FXpnzN4daBxmbLrvyUzJwnz/GXAp6oJCSacuWaQ+LqHCWsL6jk1Ia0apCOxLus12I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
-    "id": "task_1793984900735",
+    "id": "task_1793985496278",
     "status": "RUNNING",
-    "completed_items": 1,
-    "total_items": 4,
-    "current_item_title": "[2/4] 🎬 ভিডিও ডাউনলোড ও আপলোড: পর্ব-২ (Recorded): বাংলাদেশের কৃষি",
-    "status_message": "ভিডিও ডাউনলোড ও টেলিগ্রামে আপলোড হচ্ছে (2/4): পর্ব-২ (Recorded): বাংলাদেশের কৃষি",
-    "target_chat_id": "-1004384836219",
-    "telegram_invite_link": "https://t.me/+eE-IGJWUItdjODk1",
-    "github_run_id": "42258886289"
+    "completed_items": 0,
+    "total_items": 1,
+    "current_item_title": "[1/1] 📄 স্লাইড আপলোড: পর্ব-১: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম - স্লাইড",
+    "status_message": "লেকচার স্লাইড (PDF) টেলিগ্রামে আপলোড হচ্ছে (1/1): পর্ব-১: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম - স্লাইড",
+    "target_chat_id": "-1004457319612",
+    "telegram_invite_link": "https://t.me/+JclcQJ9r9Xg3ODA1",
+    "github_run_id": "42260419362"
   },
   "telegram_dialogs": [
     {
