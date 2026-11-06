@@ -1,112 +1,29 @@
 {
-  "task_id": "task_1793984900735",
-  "updated_at": 1793984911424,
+  "task_id": "task_1793985496278",
+  "updated_at": 1793985503876,
   "lessons": [
     {
-      "id": "68c17337458c5ff286dc2d2a",
-      "content_id": "68c17337458c5ff286dc2d29",
-      "live_class_id": "",
+      "id": "6abe4dd85aad334f80c16866",
+      "content_id": "6abe3d245aad334f80c1646b",
+      "live_class_id": "6abe3d245aad334f80c1646b",
       "session_id": "",
       "candidate_ids": [
-        "68c17337458c5ff286dc2d29",
-        "68c17337458c5ff286dc2d2a"
+        "6abe3d245aad334f80c1646b",
+        "6abe4dd85aad334f80c16866"
       ],
-      "title": "পর্ব-১ (Recorded Class): বাংলাদেশের কৃষি",
+      "title": "পর্ব-১: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
       "content_type": "LiveClass",
-      "subject_code": "445899157",
-      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
-      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
-      "chapter_name": "",
-      "teacher_name": "Md. Sayedur Rahman",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/10ea6c66-dd0d-460b-b8f6-ab5363f376a4\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842847\/cyg3qbaakds7zvcpbtdi.pdf",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "acc1f365-a3ce-4852-8e16-8eea46cdcde5",
+      "chapter_name": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম ",
+      "teacher_name": "",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/2274f5e8-0861-4ae7-9023-4a2759a7c2b1\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791722212\/atjjp7ptorqbl25av77l.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27  Agriculture Education Sep-14 (Recorded) Part-01",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842847\/cyg3qbaakds7zvcpbtdi.pdf"
-        },
-        {
-          "title": "AP Class-11'27  Agriculture Education Sep-14 (Recorded) Part-02",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842883\/t4ckgamjaymsv0a34jnp.pdf"
-        }
-      ]
-    },
-    {
-      "id": "68da8a42cc764a295cb1ea7a",
-      "content_id": "68da8a42cc764a295cb1ea79",
-      "live_class_id": "",
-      "session_id": "",
-      "candidate_ids": [
-        "68da8a42cc764a295cb1ea79",
-        "68da8a42cc764a295cb1ea7a"
-      ],
-      "title": "পর্ব-২ (Recorded): বাংলাদেশের কৃষি",
-      "content_type": "LiveClass",
-      "subject_code": "445899157",
-      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
-      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
-      "chapter_name": "",
-      "teacher_name": "Md. Sayedur Rahman",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/19f6e39b-8963-4663-9b8f-3324b60e4d5b\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759670986\/hydf5rq2sg40zp03mvss.pdf",
-      "slides": [
-        {
-          "title": "Part-1 AP Class-11'27 Agriculture Work Oct-04",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759670986\/hydf5rq2sg40zp03mvss.pdf"
-        },
-        {
-          "title": "AP Class-11'27 Humanities Agricultural Education Oct-05 Part-2",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1791973567\/zjm8barzvjy0wqoraijk.pdf"
-        }
-      ]
-    },
-    {
-      "id": "68ef372bf1e225adba04acae",
-      "content_id": "68ef372bf1e225adba04acad",
-      "live_class_id": "",
-      "session_id": "",
-      "candidate_ids": [
-        "68ef372bf1e225adba04acad",
-        "68ef372bf1e225adba04acae"
-      ],
-      "title": "MCQ Solving Class (Recorded Class): বাংলাদেশের কৃষি",
-      "content_type": "LiveClass",
-      "subject_code": "445899157",
-      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
-      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
-      "chapter_name": "",
-      "teacher_name": "Md. Sayedur Rahman",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/241b7b2c-fba9-41ef-b78e-25a844788ae1\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760521757\/kfeknajm26b4no0ftbiw.pdf",
-      "slides": [
-        {
-          "title": "AP Class-11'27 Humanities Agricultural Education Oct-04 (Recorded)",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760521757\/kfeknajm26b4no0ftbiw.pdf"
-        }
-      ]
-    },
-    {
-      "id": "690315622cda82fba176f97f",
-      "content_id": "690315622cda82fba176f97e",
-      "live_class_id": "",
-      "session_id": "",
-      "candidate_ids": [
-        "690315622cda82fba176f97e",
-        "690315622cda82fba176f97f"
-      ],
-      "title": "CQ Solving Class (Recorded Class): বাংলাদেশের কৃষি",
-      "content_type": "LiveClass",
-      "subject_code": "445899157",
-      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
-      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
-      "chapter_name": "",
-      "teacher_name": "Md. Sayedur Rahman",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/1fbe8127-fe71-407e-9e59-68ad02b321d5\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1762086043\/fkokrnbrgcfwbm5yqldr.pdf",
-      "slides": [
-        {
-          "title": "AP Class-11'27 Humanities Agricultural Education Nov-02 (Recorded)",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1762086043\/fkokrnbrgcfwbm5yqldr.pdf"
+          "title": "পর্ব-১: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম - স্লাইড",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791722212\/atjjp7ptorqbl25av77l.pdf"
         }
       ]
     }
