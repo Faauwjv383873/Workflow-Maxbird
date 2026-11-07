@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "65c89c22d6bec2da54",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-07T03:15:59.810470+00:00",
+  "updated_at": "2026-11-07T03:17:28.765011+00:00",
   "telegram_session_string": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg/TaD+dzU1lCA3+SFyJxn1p/vIeapDQ6aEqa5FJD5HBSyEYrSl/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f/vf7SM66aNy2I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -17,8 +17,8 @@
     "status": "RUNNING",
     "completed_items": 1,
     "total_items": 4,
-    "current_item_title": "[2/4] ⚡ ভিডিও ডাউনলোড ও আপলোড: পর্ব-২: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
-    "status_message": "ভিডিও ডাউনলোড ও সুপার-ফাস্ট টেলিগ্রাম আপলোড চলছে (2/4): পর্ব-২: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+    "current_item_title": "[2/4] 📄 স্লাইড আপলোড: পর্ব-২: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম - স্লাইড",
+    "status_message": "লেকচার স্লাইড (PDF) টেলিগ্রামে আপলোড হচ্ছে (2/4): পর্ব-২: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম - স্লাইড",
     "target_chat_id": "-1004415186689",
     "telegram_invite_link": "https://t.me/+8IdQjccaYh5lYTll",
     "github_run_id": "42333028887"
