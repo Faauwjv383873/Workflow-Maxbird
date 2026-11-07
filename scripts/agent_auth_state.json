@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "65c89c22d6bec2da54",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-07T20:05:48.281316+00:00",
+  "updated_at": "2026-11-07T20:05:52.627451+00:00",
   "telegram_session_string": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg/TaD+dzU1lCA3+SFyJxn1p/vIeapDQ6aEqa5FJD5HBSyEYrSl/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f/vf7SM66aNy2I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -64,50 +64,98 @@
       "can_post": true,
       "topics": [
         {
+          "id": 158,
+          "title": "যুক্তিবিদ্যা ১ম পত্র"
+        },
+        {
+          "id": 152,
+          "title": "মনোবিজ্ঞান ১ম পত্র"
+        },
+        {
+          "id": 30,
+          "title": "ভূগোল ১ম পত্র"
+        },
+        {
+          "id": 43,
+          "title": "অর্থনীতি ২য় পত্র"
+        },
+        {
+          "id": 259,
+          "title": "কৃষি শিক্ষা ২য় পত্র"
+        },
+        {
+          "id": 139,
+          "title": "সমাজকর্ম ১ম পত্র"
+        },
+        {
+          "id": 55,
+          "title": "তথ্য ও যোগাযোগ প্রযুক্তি"
+        },
+        {
+          "id": 170,
+          "title": "পরিসংখ্যান ১ম পত্র"
+        },
+        {
+          "id": 249,
+          "title": "ইতিহাস ২য় পত্র"
+        },
+        {
+          "id": 21,
+          "title": "পৌরনীতি ও সুশাসন ২য় পত্র"
+        },
+        {
+          "id": 162,
+          "title": "সমাজবিজ্ঞান ১ম পত্র"
+        },
+        {
+          "id": 35,
+          "title": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র"
+        },
+        {
+          "id": 4,
+          "title": "ইংরেজি ১ম পত্র"
+        },
+        {
+          "id": 143,
+          "title": "কৃষি শিক্ষা ১ম পত্র"
+        },
+        {
+          "id": 107,
+          "title": "বাংলা ২য় পত্র"
+        },
+        {
+          "id": 12,
+          "title": "ইতিহাস ১ম পত্র"
+        },
+        {
+          "id": 59,
+          "title": "বাংলা ১ম পত্র"
+        },
+        {
+          "id": 26,
+          "title": "অর্থনীতি ১ম পত্র"
+        },
+        {
+          "id": 113,
+          "title": "ইংরেজি ২য় পত্র"
+        },
+        {
+          "id": 17,
+          "title": "পৌরনীতি ও সুশাসন ১ম পত্র"
+        },
+        {
+          "id": 39,
+          "title": "ভূগোল ২য় পত্র"
+        },
+        {
+          "id": 8,
+          "title": "ওরিয়েন্টেশন এবং গাইডলাইন"
+        },
+        {
           "id": 1,
           "title": "General"
         }
       ]
-    },
-    {
-      "id": "-1004486640533",
-      "title": "Nexventa Group",
-      "username": "NexventaChat",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1002289335186",
-      "title": "B BONGO MEMBERS CHAT",
-      "username": "bbongoarif",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004472095908",
-      "title": "𝐃𝐞𝐯𝐢𝐧𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 chat",
-      "username": "devinechat",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1002029117397",
-      "title": "Hsc students",
-      "username": "hscstuden12",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
     },
     {
       "id": "-1001917138540",
@@ -261,6 +309,46 @@
           "title": "MENTORSHIP CLASS"
         }
       ]
+    },
+    {
+      "id": "-1004486640533",
+      "title": "Nexventa Group",
+      "username": "NexventaChat",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004472095908",
+      "title": "𝐃𝐞𝐯𝐢𝐧𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 chat",
+      "username": "devinechat",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1002289335186",
+      "title": "B BONGO MEMBERS CHAT",
+      "username": "bbongoarif",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1002029117397",
+      "title": "Hsc students",
+      "username": "hscstuden12",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
     },
     {
       "id": "-1003848557590",
