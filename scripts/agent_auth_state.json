@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "65c89c22d6bec2da54",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-07T17:36:46.185370+00:00",
+  "updated_at": "2026-11-07T17:36:50.042805+00:00",
   "telegram_session_string": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg/TaD+dzU1lCA3+SFyJxn1p/vIeapDQ6aEqa5FJD5HBSyEYrSl/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f/vf7SM66aNy2I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -48,6 +48,71 @@
       "id": "-1003327225425",
       "title": ";\"!\"!! \"\"!! @",
       "username": "ndndbzxqjhddbhsbdqikwhhe",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004383072309",
+      "title": "ক্লাস 11 - HSC '28 মানবিক",
+      "username": "",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": true,
+      "can_post": true,
+      "topics": [
+        {
+          "id": 1,
+          "title": "General"
+        }
+      ]
+    },
+    {
+      "id": "-1004486640533",
+      "title": "Nexventa Group",
+      "username": "NexventaChat",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1002289335186",
+      "title": "B BONGO MEMBERS CHAT",
+      "username": "bbongoarif",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004472095908",
+      "title": "𝐃𝐞𝐯𝐢𝐧𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 chat",
+      "username": "devinechat",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1002029117397",
+      "title": "Hsc students",
+      "username": "hscstuden12",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1001917138540",
+      "title": "Getmodpc's family",
+      "username": "Getmodpc_family",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": false,
@@ -198,76 +263,6 @@
       ]
     },
     {
-      "id": "-1004415186689",
-      "title": "তথ্য ও যোগাযোগ প্রযুক্তি • ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
-      "username": "",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1001917138540",
-      "title": "Getmodpc's family",
-      "username": "Getmodpc_family",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1002289335186",
-      "title": "B BONGO MEMBERS CHAT",
-      "username": "bbongoarif",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004486640533",
-      "title": "Nexventa Group",
-      "username": "NexventaChat",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1002642154956",
-      "title": "𝐋𝐞𝐭'𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬",
-      "username": "STUDY_ROOM_DISCUSSION",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1002029117397",
-      "title": "Hsc students",
-      "username": "hscstuden12",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004472095908",
-      "title": "𝐃𝐞𝐯𝐢𝐧𝐞 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 chat",
-      "username": "devinechat",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
       "id": "-1003848557590",
       "title": "𝐒𝐇𝐈𝐊𝐇𝐎 𝐇𝐒𝐂27 𝐀𝐂𝐀𝐃𝐄𝐌𝐈𝐂 𝐅𝐑𝐄𝐄",
       "username": "shikho_academic_free_coursehsc27",
@@ -345,6 +340,16 @@
           "title": "Physics 2nd"
         }
       ]
+    },
+    {
+      "id": "-1002642154956",
+      "title": "𝐋𝐞𝐭'𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬",
+      "username": "STUDY_ROOM_DISCUSSION",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
     },
     {
       "id": "-1002487425219",
