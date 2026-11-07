@@ -1,104 +1,129 @@
 {
-  "task_id": "task_1793985496278",
-  "updated_at": 1794021226446,
+  "task_id": "task_1794021491455",
+  "updated_at": 1794021508616,
   "lessons": [
     {
-      "id": "6abe4dd85aad334f80c16866",
-      "content_id": "6abe3d245aad334f80c1646b",
+      "id": "68b69954458c5ff286daeab8",
+      "content_id": "68b69886458c5ff286daea9e",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "6abe3d245aad334f80c1646b",
-        "6abe4dd85aad334f80c16866"
+        "68b69886458c5ff286daea9e",
+        "68b69954458c5ff286daeab8"
       ],
-      "title": "পর্ব-১: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "title": "বিষয়ভিত্তিক গাইডলাইন",
       "content_type": "LiveClass",
-      "subject_code": "743165126",
-      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
-      "chapter_id": "acc1f365-a3ce-4852-8e16-8eea46cdcde5",
-      "chapter_name": "কোয়ার্টার ৫",
-      "teacher_name": "Md. Ruman Khandoker",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/2274f5e8-0861-4ae7-9023-4a2759a7c2b1\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791722212\/atjjp7ptorqbl25av77l.pdf",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "c491b95b-6011-44c4-af50-b0764a8fc4f0",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c88f075d-accb-4aba-9575-c00cb0eecbf4\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757783053\/obhv9kezckmquejojurc.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 ICT Oct-11",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791722212\/atjjp7ptorqbl25av77l.pdf"
+          "title": "AP Class-11'27 Bangla Sep-13",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757783053\/obhv9kezckmquejojurc.pdf"
         }
       ]
     },
     {
-      "id": "6acccc193a30c33b1b439e87",
-      "content_id": "6acccc193a30c33b1b439e85",
+      "id": "68ca8a4bcd90273bfeed1d70",
+      "content_id": "68ca89e5cd90273bfeed1d59",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "6acccc193a30c33b1b439e85",
-        "6acccc193a30c33b1b439e87"
+        "68ca89e5cd90273bfeed1d59",
+        "68ca8a4bcd90273bfeed1d70"
       ],
-      "title": "পর্ব-২: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "title": "অপরিচিতা",
       "content_type": "LiveClass",
-      "subject_code": "743165126",
-      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
-      "chapter_id": "acc1f365-a3ce-4852-8e16-8eea46cdcde5",
-      "chapter_name": "কোয়ার্টার ৫",
-      "teacher_name": "Md. Ruman Khandoker",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/266fcc9f-ecaa-4bdc-86a5-237477ffdc86\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792334427\/vij1zvep4kiclttzzmsm.pdf",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "330b8130-7a1b-4512-b1b2-67d026818f93",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Abdullah Al Mehedi",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/fa0c5b4b-ecdf-4e92-8880-990bda5bdff2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758385032\/rpok9wotrcvvmoxe29sr.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 ICT Oct-18",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792334427\/vij1zvep4kiclttzzmsm.pdf"
+          "title": "AP Class-11'27 Bangla Sep-20",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758385032\/rpok9wotrcvvmoxe29sr.pdf"
         }
       ]
     },
     {
-      "id": "6acccc2bad6d61dae3321c6d",
-      "content_id": "6acccc2bad6d61dae3321c6b",
+      "id": "68e66beaf1e225adba03af6e",
+      "content_id": "68e66bd1f1e225adba03af5a",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "6acccc2bad6d61dae3321c6b",
-        "6acccc2bad6d61dae3321c6d"
+        "68e66bd1f1e225adba03af5a",
+        "68e66beaf1e225adba03af6e"
       ],
-      "title": "পর্ব-৩: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "title": "সোনার তরী",
       "content_type": "LiveClass",
-      "subject_code": "743165126",
-      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
-      "chapter_id": "acc1f365-a3ce-4852-8e16-8eea46cdcde5",
-      "chapter_name": "কোয়ার্টার ৫",
-      "teacher_name": "Md. Ruman Khandoker",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/375d0401-1e65-403f-852d-1a42393291ad\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792931935\/nbj8mernhvgk8j7nog6t.pdf",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "79b2f408-cab9-4c95-a85d-ad6fa55cd2f7",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Abdullah Al Mehedi",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/1c5fb88b-d13c-4379-bb70-5fd61265f0eb\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760183513\/ktgvu5tro8jfkcuywhab.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 ICT Oct-25",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792931935\/nbj8mernhvgk8j7nog6t.pdf"
+          "title": "AP Class-11'27 Bangla Oct-11",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760183513\/ktgvu5tro8jfkcuywhab.pdf"
         }
       ]
     },
     {
-      "id": "6ae1df23ddd5b87525339049",
-      "content_id": "6ae1df23ddd5b87525339047",
+      "id": "68ee4496f1e225adba049406",
+      "content_id": "68ee4479f1e225adba0493f0",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "6ae1df23ddd5b87525339047",
-        "6ae1df23ddd5b87525339049"
+        "68ee4479f1e225adba0493f0",
+        "68ee4496f1e225adba049406"
       ],
-      "title": "পর্ব-৪: ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "title": "তাহারেই পড়ে মনে",
       "content_type": "LiveClass",
-      "subject_code": "743165126",
-      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
-      "chapter_id": "acc1f365-a3ce-4852-8e16-8eea46cdcde5",
-      "chapter_name": "কোয়ার্টার ৫",
-      "teacher_name": "Md. Ruman Khandoker",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/67446c8f-4899-46d8-80a7-840fcf8ddf45\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793545101\/ir3qxy1yyngdmgbea9ai.pdf",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "6f11c258-585f-46a2-80a8-c0e5723b586b",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Abdullah Al Mehedi",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/ee4c4f9d-c98b-462d-927d-b2be727cfb6d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760797598\/zes4rvx78nvzfq0ytoxq.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 ICT Nov-01",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793545101\/ir3qxy1yyngdmgbea9ai.pdf"
+          "title": "AP Class-11'27 Bangla Oct-18",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760797598\/zes4rvx78nvzfq0ytoxq.pdf"
+        }
+      ]
+    },
+    {
+      "id": "691c2263422c0a6b58e6f2f2",
+      "content_id": "691c2252422c0a6b58e6f2ea",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "691c2252422c0a6b58e6f2ea",
+        "691c2263422c0a6b58e6f2f2"
+      ],
+      "title": "আঠারো বছর বয়স",
+      "content_type": "LiveClass",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "091ee76f-a8f1-4438-87d4-50666650c49f",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Abdullah Al Mehedi",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/3df100e7-1456-4994-bf78-071736e11c92\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1763827170\/ggp8b1yg9b7nwso4cq02.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Bangla Nov-22",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1763827170\/ggp8b1yg9b7nwso4cq02.pdf"
         }
       ]
     }
