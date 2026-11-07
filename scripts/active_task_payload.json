@@ -1,40 +1,777 @@
 {
-  "task_id": "task_1794021491455",
-  "updated_at": 1794021508616,
+  "task_id": "task_1794072943039",
+  "updated_at": 1794072953593,
   "lessons": [
     {
-      "id": "68b69954458c5ff286daeab8",
-      "content_id": "68b69886458c5ff286daea9e",
+      "id": "6a7d92ba1e7493697c4e9c0a",
+      "content_id": "6a7d92ba1e7493697c4e9c08",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "68b69886458c5ff286daea9e",
-        "68b69954458c5ff286daeab8"
+        "6a7d92ba1e7493697c4e9c08",
+        "6a7d92ba1e7493697c4e9c0a"
       ],
-      "title": "বিষয়ভিত্তিক গাইডলাইন",
+      "title": "Lifestyle-01",
       "content_type": "LiveClass",
-      "subject_code": "609130954",
-      "subject_name": "বাংলা ১ম পত্র ",
-      "chapter_id": "c491b95b-6011-44c4-af50-b0764a8fc4f0",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "257574bc-0aa3-4925-8468-3bd4a6a08690",
       "chapter_name": "কোয়ার্টার ১",
-      "teacher_name": "Hironmoy Bowali",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c88f075d-accb-4aba-9575-c00cb0eecbf4\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757783053\/obhv9kezckmquejojurc.pdf",
+      "teacher_name": "Diba Chowdhury",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/06859edf-3df1-4f3a-a9e7-0dac56eedc51\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1786614600\/pvtfhucip8q5rfwwfxta.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 Bangla Sep-13",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757783053\/obhv9kezckmquejojurc.pdf"
+          "title": "AP Class-11'28 English",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1786614600\/pvtfhucip8q5rfwwfxta.pdf"
         }
       ]
     },
     {
-      "id": "68ca8a4bcd90273bfeed1d70",
-      "content_id": "68ca89e5cd90273bfeed1d59",
+      "id": "6a7b1a7ce4655d842ad2de90",
+      "content_id": "6a7b1a39bde7840e4b7af998",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "68ca89e5cd90273bfeed1d59",
-        "68ca8a4bcd90273bfeed1d70"
+        "6a7b1a39bde7840e4b7af998",
+        "6a7b1a7ce4655d842ad2de90"
+      ],
+      "title": "Class 11 - HSC 28 Orientation | Academic Program",
+      "content_type": "LiveClass",
+      "subject_code": "681960175",
+      "subject_name": "ওরিয়েন্টেশন এবং গাইডলাইন",
+      "chapter_id": "bf4efd24-d54f-43bb-8e68-82746b561b09",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Enamul Islam Rehan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/aa1ab3c0-ee61-45c7-bf54-c43194f6fc92\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1786897659\/j6t7f3qag6xh64j0ts84.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Orientation Aug-16",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1786897659\/j6t7f3qag6xh64j0ts84.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a7ad2dd40db9b91ee87ec86",
+      "content_id": "6a7ad2dd40db9b91ee87ec85",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a7ad2dd40db9b91ee87ec85",
+        "6a7ad2dd40db9b91ee87ec86"
+      ],
+      "title": "ইতিহাস ১ম পত্র বিষয় পরিচিতি ও ইংরেজ ঔপনিবেশিক শাসন: ব্রিটিশ আমল",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "0529d59a-395d-498e-9528-dd8a5a4bd364",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/a5067f3d-18b2-4c54-aa95-ddf7261a2ed7\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1786978498\/m9tgn7hyiwr2jadcmbhe.pdf",
+      "slides": [
+        {
+          "title": "P-1 AP Class-11'28 (Hum) History Aug-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1786978498\/m9tgn7hyiwr2jadcmbhe.pdf"
+        },
+        {
+          "title": "P-2 AP Class-11'28 (Hum) History Aug-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1786978501\/zyd1flmds6pbwqbj0x10.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a7ad2f640db9b91ee87ec92",
+      "content_id": "6a7ad2f640db9b91ee87ec91",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a7ad2f640db9b91ee87ec91",
+        "6a7ad2f640db9b91ee87ec92"
+      ],
+      "title": "পৌরনীতি ও সুশাসন ১ম পত্র বিষয় পরিচিতি ও সুশাসন",
+      "content_type": "LiveClass",
+      "subject_code": "939420788",
+      "subject_name": "পৌরনীতি ও সুশাসন ১ম পত্র",
+      "chapter_id": "62e6e823-1e0a-45ab-a51a-abc3b7c95823",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/2c43116c-66bc-4e6b-82ab-ba8cd98cb6fb\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787151328\/rpnahqmnvwnylpcu9hxo.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Aug-19",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787151328\/rpnahqmnvwnylpcu9hxo.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a8414508fd8da50449252c6",
+      "content_id": "6a8414508fd8da50449252c5",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a8414508fd8da50449252c5",
+        "6a8414508fd8da50449252c6"
+      ],
+      "title": "পৌরনীতি ও সুশাসন ২য় পত্র বিষয় পরিচিতি ও বঙ্গভঙ্গ থেকে লাহোর প্রস্তাব",
+      "content_type": "LiveClass",
+      "subject_code": "243345471",
+      "subject_name": "পৌরনীতি ও সুশাসন ২য় পত্র",
+      "chapter_id": "9abdf079-8254-4563-9cc7-f744a7b6eb7c",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Tasmia Ferdous Tithlee",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/90d21bb3-6e68-43da-bc3b-6020e35a288c\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787409310\/fmq6i1oqsba1qxznhezz.pdf",
+      "slides": [
+        {
+          "title": "P-1 AP Class-11'28 (Hum) Civics & Good Governance Aug-22",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787409310\/fmq6i1oqsba1qxznhezz.pdf"
+        },
+        {
+          "title": "P-2 AP Class-11'28 (Hum) Civics & Good Governance Aug-22",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787409313\/rafo5izt2prrpvybstfo.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a84153ccbbd3ba23cb54d4b",
+      "content_id": "6a84153ccbbd3ba23cb54d4a",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a84153ccbbd3ba23cb54d4a",
+        "6a84153ccbbd3ba23cb54d4b"
+      ],
+      "title": "অর্থনীতি ১ম পত্র বিষয় পরিচিতি ও মুদ্রা ও ব্যাংক",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "93fcaa5d-4964-431b-8a88-096901b162d6",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/b36d0a24-6e46-4a49-adb8-843e805c8aa2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787581718\/yzmfc7u4yyg9ggsnenbw.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Aug-24",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787581718\/yzmfc7u4yyg9ggsnenbw.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a7ad33040db9b91ee87ecbb",
+      "content_id": "6a7ad33040db9b91ee87ecba",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a7ad33040db9b91ee87ecba",
+        "6a7ad33040db9b91ee87ecbb"
+      ],
+      "title": " ভূগোল ১ম পত্র বিষয় পরিচিতি ও ভূমিরূপ পরিবর্তন",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "dc8cf71e-2b12-4315-9d3d-4e6565ce3ef5",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/905d8307-caae-4a4b-904d-681cbba10a27\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787666625\/veme5xbrxyeo6zqohpke.pdf",
+      "slides": [
+        {
+          "title": "P-1 AP Class-11'28 (Hum) Geography Aug-25",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787666625\/veme5xbrxyeo6zqohpke.pdf"
+        },
+        {
+          "title": "P-2 AP Class-11'28 (Hum) Geography Aug-25",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787666629\/ren7nitoladhq7g49snu.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a8415f38fd8da50449252e0",
+      "content_id": "6a8415f38fd8da50449252df",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a8415f38fd8da50449252df",
+        "6a8415f38fd8da50449252e0"
+      ],
+      "title": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র বিষয় পরিচিতি ও হযরত মুহাম্মদ (স)",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "84f80dd0-dfe9-4faa-8377-2acfcf598017",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/96737de6-f4f8-4381-9a0c-0fbf6beb13dd\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787844096\/fcltk9ars6mpgjlwefyu.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Islamic History and Culture Aug-27",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1787844096\/fcltk9ars6mpgjlwefyu.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a84160ae0eb39000edb0427",
+      "content_id": "6a84160ae0eb39000edb0426",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a84160ae0eb39000edb0426",
+        "6a84160ae0eb39000edb0427"
+      ],
+      "title": " ভূগোল ২য় পত্র বিষয় পরিচিতি ও খনিজ ও শক্তি সম্পদ",
+      "content_type": "LiveClass",
+      "subject_code": "675575506",
+      "subject_name": "ভূগোল ২য় পত্র",
+      "chapter_id": "32d19ea4-c963-498d-8042-8f6cb5245bd3",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/3c5436f4-7953-474a-a3fa-d464f5dff9af\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788019503\/emvo7ujnf002hormjyll.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Aug-29",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788019503\/emvo7ujnf002hormjyll.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a84162265d62c6364e4b652",
+      "content_id": "6a84162265d62c6364e4b651",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a84162265d62c6364e4b651",
+        "6a84162265d62c6364e4b652"
+      ],
+      "title": "অর্থনীতি ২য় পত্র বিষয় পরিচিতি ও  বাংলাদেশের অর্থনীতি পরিচয়",
+      "content_type": "LiveClass",
+      "subject_code": "996824152",
+      "subject_name": "অর্থনীতি ২য় পত্র",
+      "chapter_id": "1bdeb9f4-2500-4f25-8841-52b89efb6c8a",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/2c989c2d-838c-48b6-b271-b1ea279270b8\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788100860\/awheavciylnfzre9zsyb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Aug-30",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788100860\/awheavciylnfzre9zsyb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a90328fdd1c9f564bb8a767",
+      "content_id": "6a90328fdd1c9f564bb8a766",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a90328fdd1c9f564bb8a766",
+        "6a90328fdd1c9f564bb8a767"
+      ],
+      "title": "পর্ব-১: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/1a8a201d-e159-41d4-855d-f53237c6e04b\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788266992\/l1go4yukk02pnizlfr3l.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Sep-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788266992\/l1go4yukk02pnizlfr3l.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a90328eb0490eb16262787d",
+      "content_id": "6a90328eb0490eb16262787b",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a90328eb0490eb16262787b",
+        "6a90328eb0490eb16262787d"
+      ],
+      "title": "Unit One: Education and life - 01",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "ec9d7402-8849-4dd2-b284-a65307343d89",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Ahnaf Amir Aunabil",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/6cab40e1-c5e0-4668-8f26-8625cb15c34e\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788278170\/vddkrewzs3caetowjqby.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Sep-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788278170\/vddkrewzs3caetowjqby.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a903297b0490eb162627892",
+      "content_id": "6a903297b0490eb162627891",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a903297b0490eb162627891",
+        "6a903297b0490eb162627892"
+      ],
+      "title": "পর্ব-১: প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "MD. Sazzad Hossain",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/f601b38e-dd46-4831-993c-19ae0bcc5e72\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788366682\/msdvmrrkw0segfzzqcwh.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Islamic History and Culture Sep-02",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788366682\/msdvmrrkw0segfzzqcwh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a90329cdd1c9f564bb8a79a",
+      "content_id": "6a90329cdd1c9f564bb8a799",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a90329cdd1c9f564bb8a799",
+        "6a90329cdd1c9f564bb8a79a"
+      ],
+      "title": "পর্ব-১: পৌরনীতি ও সুশাসন পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "939420788",
+      "subject_name": "পৌরনীতি ও সুশাসন ১ম পত্র",
+      "chapter_id": "9956e31e-b32a-4aa2-8348-5fd4a17c20ee",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c9e6008b-33f2-4be7-94fb-1f33247939c2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788442828\/orwiah2cqatatcynjt8w.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Sep-03",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788442828\/orwiah2cqatatcynjt8w.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a90329c451987cc623a0c2a",
+      "content_id": "6a90329c451987cc623a0c28",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a90329c451987cc623a0c28",
+        "6a90329c451987cc623a0c2a"
+      ],
+      "title": "পর্ব-১: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/5aecfdc6-a7a1-4ac9-b745-9eba90c346ca\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788446910\/nvmmycd3mojlcbrxdwxg.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Sep-03",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788446910\/nvmmycd3mojlcbrxdwxg.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a996ee37b56b873a6b59cd0",
+      "content_id": "6a96ee5998a8e7077ec13d99",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee5998a8e7077ec13d99",
+        "6a996ee37b56b873a6b59cd0"
+      ],
+      "title": "পর্ব-১: বাঙ্গালার নব্য লেখকদের প্রতি নিবেদন + বিভীষণের প্রতি মেঘনাদ",
+      "content_type": "LiveClass",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "52355b3c-5d59-484a-aec8-2692f1729d89",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Sajib Sikder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/456b2994-a8e7-4bd8-b5af-dc71cb95d3d0\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788706408\/yaah4ockrqlqcb4lmywp.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Bangla 1st Sep-06",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788706408\/yaah4ockrqlqcb4lmywp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a96ee67a2dc08413ad445e0",
+      "content_id": "6a96ee67a2dc08413ad445df",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee67a2dc08413ad445df",
+        "6a96ee67a2dc08413ad445e0"
+      ],
+      "title": "পর্ব-২: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/383dbb34-0fbe-4894-a647-7020be9f9da8\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788876504\/kjt6smiuvlwglr2c99dz.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Sep-08",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788876504\/kjt6smiuvlwglr2c99dz.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a996f0fdbebf211f998da08",
+      "content_id": "6a96ee67a79f63c300eac7ba",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee67a79f63c300eac7ba",
+        "6a996f0fdbebf211f998da08"
+      ],
+      "title": "Unit One: Education and life - 02",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "ec9d7402-8849-4dd2-b284-a65307343d89",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Ahnaf Amir Aunabil",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/3acaf984-dd53-4dfd-a35f-a084be2059e2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788881280\/xcpvftxbtyac5kusjgea.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Sep-08_compressed",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788881280\/xcpvftxbtyac5kusjgea.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a96ee72a79f63c300eac7ce",
+      "content_id": "6a96ee72a79f63c300eac7cd",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee72a79f63c300eac7cd",
+        "6a96ee72a79f63c300eac7ce"
+      ],
+      "title": "পর্ব-২: প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/7032950a-29ad-4b70-9b07-9b77fdb55ee7\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788969568\/veiqvh1gzyoocwyrqzpr.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Islamic History and Culture Sep-09",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1788969568\/veiqvh1gzyoocwyrqzpr.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a96ee7898a8e7077ec13dd6",
+      "content_id": "6a96ee7898a8e7077ec13dd5",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee7898a8e7077ec13dd5",
+        "6a96ee7898a8e7077ec13dd6"
+      ],
+      "title": "পর্ব-২: পৌরনীতি ও সুশাসন পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "939420788",
+      "subject_name": "পৌরনীতি ও সুশাসন ১ম পত্র",
+      "chapter_id": "9956e31e-b32a-4aa2-8348-5fd4a17c20ee",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/9a0a47d9-61f4-4a46-ba4f-41681eb432be\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789056463\/jvhuc8glcp52uneiwtau.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Sep-10",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789056463\/jvhuc8glcp52uneiwtau.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a996f2b8bb8ac30400368fc",
+      "content_id": "6a96ee77a2dc08413ad44602",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee77a2dc08413ad44602",
+        "6a996f2b8bb8ac30400368fc"
+      ],
+      "title": "পর্ব-২: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/afcc280a-0256-43a6-aa12-7dcd3e363e2a\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789050953\/dk8u9sgdsavyckctml8l.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Sep-10",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789050953\/dk8u9sgdsavyckctml8l.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6a96ee85a2dc08413ad4461d",
+      "content_id": "6a96ee85a2dc08413ad4461c",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6a96ee85a2dc08413ad4461c",
+        "6a96ee85a2dc08413ad4461d"
+      ],
+      "title": "পর্ব-১: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/01046af6-8bc6-442a-808a-f0382f227970\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789216885\/ciqnzqb6ujk3pxairao5.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Sep-12",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789216885\/ciqnzqb6ujk3pxairao5.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa00907e5b380ac89339fc7",
+      "content_id": "6aa00907e5b380ac89339fc5",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa00907e5b380ac89339fc5",
+        "6aa00907e5b380ac89339fc7"
+      ],
+      "title": "পর্ব-২: বাঙ্গালার নব্য লেখকদের প্রতি নিবেদন + বিভীষণের প্রতি মেঘনাদ",
+      "content_type": "LiveClass",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "52355b3c-5d59-484a-aec8-2692f1729d89",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Sajib Sikder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d4b2a3da-b5f2-40a3-be6b-83ab68c22061\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789313040\/tuscssadwv6wlzszsuew.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Bangla 1st Sep-13",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789313040\/tuscssadwv6wlzszsuew.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa009155a298013f52e8ed5",
+      "content_id": "6aa009155a298013f52e8ed4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa009155a298013f52e8ed4",
+        "6aa009155a298013f52e8ed5"
+      ],
+      "title": "পর্ব-৩: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/fbb77beb-a176-4f32-8c3a-7e51110da31d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789474289\/jntgximskxxebbqbg8sf.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Sep-15",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789474289\/jntgximskxxebbqbg8sf.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa0091442e1f5fda10805ea",
+      "content_id": "6aa0091442e1f5fda10805e8",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa0091442e1f5fda10805e8",
+        "6aa0091442e1f5fda10805ea"
+      ],
+      "title": "Unit One: Education and life - 03",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "ec9d7402-8849-4dd2-b284-a65307343d89",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Diba Chowdhury",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/9db75c54-ca0c-459f-871d-36f0d05418db\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789482589\/s6oeeydaaazhp56h3duo.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Sep-15",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789482589\/s6oeeydaaazhp56h3duo.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa0091b5a298013f52e8edd",
+      "content_id": "6aa0091b5a298013f52e8edc",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa0091b5a298013f52e8edc",
+        "6aa0091b5a298013f52e8edd"
+      ],
+      "title": "পর্ব-৩: প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "MD. Sazzad Hossain",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/63c0e7b4-556d-48e4-9a86-9037e3f523cf\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789572245\/h1ggqf9nefbcsrwc15ej.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Islamic History and Culture Sep-16",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789572245\/h1ggqf9nefbcsrwc15ej.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa00921b9fdc07f687642d3",
+      "content_id": "6aa00921b9fdc07f687642d2",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa00921b9fdc07f687642d2",
+        "6aa00921b9fdc07f687642d3"
+      ],
+      "title": "পর্ব-৩: পৌরনীতি ও সুশাসন পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "939420788",
+      "subject_name": "পৌরনীতি ও সুশাসন ১ম পত্র",
+      "chapter_id": "9956e31e-b32a-4aa2-8348-5fd4a17c20ee",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/68b78709-a2e2-4509-b1ba-4800bcbc7a5c\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789659562\/yvruqm0mivin2fiqjlqe.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Sep-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789659562\/yvruqm0mivin2fiqjlqe.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa674b33ece52643bdf69d7",
+      "content_id": "6aa674983ece52643bdf69d4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa674983ece52643bdf69d4",
+        "6aa674b33ece52643bdf69d7"
+      ],
+      "title": "Unit One: Education and life - 04",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "ec9d7402-8849-4dd2-b284-a65307343d89",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Diba Chowdhury",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/dc942794-13b5-41a7-b042-a88e9dd8c6bd\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789657894\/rtupbur1wvkbzbppijf5.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Sep-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789657894\/rtupbur1wvkbzbppijf5.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa920fdf41f013206dd64df",
+      "content_id": "6aa920fdf41f013206dd64de",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa920fdf41f013206dd64de",
+        "6aa920fdf41f013206dd64df"
+      ],
+      "title": "পর্ব-২: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/5e03ede3-2209-4b7d-9c4e-396f1d215f23\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789823470\/cx2dxflxdjpaxr14dkrp.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Sep-19",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789823470\/cx2dxflxdjpaxr14dkrp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa920fd19b7dff6bfd8ccff",
+      "content_id": "6aa920fd19b7dff6bfd8ccfe",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa920fd19b7dff6bfd8ccfe",
+        "6aa920fd19b7dff6bfd8ccff"
+      ],
+      "title": "প্রাকৃতিক ভূগোল",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "bbe18be4-faf8-48e3-9d85-0b4a86503b93",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "MD. Sazzad Hossain",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/fd6df1a2-ba17-46ac-adc3-ea79b27c936a\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789833814\/ikveosniuaxhxexbmvk4.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Sep-19",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789833814\/ikveosniuaxhxexbmvk4.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa92107f41f013206dd6514",
+      "content_id": "6aa92107f41f013206dd6512",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa92107f41f013206dd6512",
+        "6aa92107f41f013206dd6514"
       ],
       "title": "অপরিচিতা",
       "content_type": "LiveClass",
@@ -42,24 +779,678 @@
       "subject_name": "বাংলা ১ম পত্র ",
       "chapter_id": "330b8130-7a1b-4512-b1b2-67d026818f93",
       "chapter_name": "কোয়ার্টার ১",
-      "teacher_name": "Abdullah Al Mehedi",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/fa0c5b4b-ecdf-4e92-8880-990bda5bdff2\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758385032\/rpok9wotrcvvmoxe29sr.pdf",
+      "teacher_name": "Sajib Sikder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d1fed55f-4c10-4717-a05f-9280c726bcbe\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789914576\/p6qnh5ktnladbwge3wxj.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 Bangla Sep-20",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758385032\/rpok9wotrcvvmoxe29sr.pdf"
+          "title": "AP Class-11'28 Bangla 1st Sep-20",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1789914576\/p6qnh5ktnladbwge3wxj.pdf"
         }
       ]
     },
     {
-      "id": "68e66beaf1e225adba03af6e",
-      "content_id": "68e66bd1f1e225adba03af5a",
+      "id": "6ab358475cac68a2faeed479",
+      "content_id": "6ab28b1f74857e4c19835357",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "68e66bd1f1e225adba03af5a",
-        "68e66beaf1e225adba03af6e"
+        "6ab28b1f74857e4c19835357",
+        "6ab358475cac68a2faeed479"
+      ],
+      "title": "পর্ব-৩: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/edd9b69d-f455-468a-8b84-d1ba422a1a88\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1790111229\/ohce9umegvfa7bzvvzlh.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Sep-22.pdf",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1790111229\/ohce9umegvfa7bzvvzlh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa9211ff41f013206dd6598",
+      "content_id": "6aa9211ff41f013206dd6597",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa9211ff41f013206dd6597",
+        "6aa9211ff41f013206dd6598"
+      ],
+      "title": "পর্ব-৪: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c0720e77-7cca-4af7-93ca-df92fb21daa2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790086223\/qlchlih35umuwixmatcb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Sep-22",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790086223\/qlchlih35umuwixmatcb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa9212819b7dff6bfd8cd83",
+      "content_id": "6aa9212819b7dff6bfd8cd82",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa9212819b7dff6bfd8cd82",
+        "6aa9212819b7dff6bfd8cd83"
+      ],
+      "title": "পর্ব-৪: প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/33040e9b-96c9-48ac-ae5d-ed4676d1ed0f\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790176574\/ztw3kdd11yykrgunbp6x.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Islamic History and Culture Sep-23",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790176574\/ztw3kdd11yykrgunbp6x.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa9212af41f013206dd65b7",
+      "content_id": "6aa9212af41f013206dd65b6",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa9212af41f013206dd65b6",
+        "6aa9212af41f013206dd65b7"
+      ],
+      "title": "MCQ Solving Class: পৌরনীতি ও সুশাসন পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "939420788",
+      "subject_name": "পৌরনীতি ও সুশাসন ১ম পত্র",
+      "chapter_id": "9956e31e-b32a-4aa2-8348-5fd4a17c20ee",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/17a0dc5f-aedf-43dd-9f57-67da994a0b26\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790259409\/h6pour5ibgayoy4objce.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Sep-24",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790259409\/h6pour5ibgayoy4objce.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa92129f41f013206dd65b4",
+      "content_id": "6aa92129f41f013206dd65b2",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa92129f41f013206dd65b2",
+        "6aa92129f41f013206dd65b4"
+      ],
+      "title": "পর্ব-৪: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/dfbfe74b-af9e-4e92-b68a-49836247faea\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790262538\/n7jw4zsvrjjwyofroqep.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Sep-24",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790262538\/n7jw4zsvrjjwyofroqep.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa9212d19b7dff6bfd8cd93",
+      "content_id": "6aa9212d19b7dff6bfd8cd92",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa9212d19b7dff6bfd8cd92",
+        "6aa9212d19b7dff6bfd8cd93"
+      ],
+      "title": "MCQ Solving Class: প্রাকৃতিক ভূগোল",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "bbe18be4-faf8-48e3-9d85-0b4a86503b93",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/08b5be30-4ce2-41bb-b997-7aaee91e590c\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790433274\/jsyebroxqxirbwnl8nor.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Sep-26",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790433274\/jsyebroxqxirbwnl8nor.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa9212d19b7dff6bfd8cd95",
+      "content_id": "6aa9212d19b7dff6bfd8cd94",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa9212d19b7dff6bfd8cd94",
+        "6aa9212d19b7dff6bfd8cd95"
+      ],
+      "title": "পর্ব-৩: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/5d45f2e0-eb0e-4668-a31f-fa943bce376c\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790517545\/c9ncx8grmlqtg9fy3zw4.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Sep-27",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790517545\/c9ncx8grmlqtg9fy3zw4.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa9212ef41f013206dd65c6",
+      "content_id": "6aa9212ef41f013206dd65c4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa9212ef41f013206dd65c4",
+        "6aa9212ef41f013206dd65c6"
+      ],
+      "title": "পর্ব-১: উচ্চারণ",
+      "content_type": "LiveClass",
+      "subject_code": "923398814",
+      "subject_name": " বাংলা ২য় পত্র ",
+      "chapter_id": "ca24ef96-51fb-477f-af5d-04c89e89f156",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/818df515-30f4-45bb-8b6a-14505d79bfec\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790519991\/dl92ss58ufgmljrd8m4s.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Bangla 2nd Sep-27",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790519991\/dl92ss58ufgmljrd8m4s.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa92131f41f013206dd65ce",
+      "content_id": "6aa92131f41f013206dd65cd",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa92131f41f013206dd65cd",
+        "6aa92131f41f013206dd65ce"
+      ],
+      "title": "পর্ব-৫ (Recorded Class): ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/3f9b449f-a909-403a-baee-7eef40bce05f\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1790519186\/lsadlvf7oqpcmejp3hbc.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History - পর্ব-৫ (Recorded) ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা Sep-29 [Recorded Sep-27]",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1790519186\/lsadlvf7oqpcmejp3hbc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa921302afb3e1d47951834",
+      "content_id": "6aa921302afb3e1d47951832",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa921302afb3e1d47951832",
+        "6aa921302afb3e1d47951834"
+      ],
+      "title": "Articles",
+      "content_type": "LiveClass",
+      "subject_code": "555327417",
+      "subject_name": " ইংরেজি ২য় পত্র",
+      "chapter_id": "8e1ab352-d834-4c44-b811-8b60e5545ddc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Nazmul Arefin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/49ff6b12-e7ba-46d2-a4b1-f3265257d492\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790692597\/z35soixjfv1xbenfp4al.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 2nd Sep-29",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790692597\/z35soixjfv1xbenfp4al.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6aa92132f41f013206dd65d6",
+      "content_id": "6aa92132f41f013206dd65d5",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6aa92132f41f013206dd65d5",
+        "6aa92132f41f013206dd65d6"
+      ],
+      "title": "পর্ব-৫ (Recorded Class): প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/84ae89c1-73ab-48af-81e2-a4b33012f97d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1790756066\/k30nzo8vlg6mj87yuhkt.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Islamic History Sep-30",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1790756066\/k30nzo8vlg6mj87yuhkt.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ab10c40f41f013206deb1fb",
+      "content_id": "6ab10c40f41f013206deb1f9",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ab10c40f41f013206deb1f9",
+        "6ab10c40f41f013206deb1fb"
+      ],
+      "title": "পর্ব-৫: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/ca30dca8-96a1-4ff6-be7a-adf51d5957fa\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790866382\/wa6caw5wskyjzl7ls8gk.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Oct-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790866382\/wa6caw5wskyjzl7ls8gk.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ab10c41f41f013206deb200",
+      "content_id": "6ab10c41f41f013206deb1ff",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ab10c41f41f013206deb1ff",
+        "6ab10c41f41f013206deb200"
+      ],
+      "title": "CQ Solving Class: পৌরনীতি ও সুশাসন পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "939420788",
+      "subject_name": "পৌরনীতি ও সুশাসন ১ম পত্র",
+      "chapter_id": "9956e31e-b32a-4aa2-8348-5fd4a17c20ee",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/7febd21e-d430-4692-9eef-93a5b980af3e\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790872077\/ep0k8iphvoy7b4uwkmcn.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Oct-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1790872077\/ep0k8iphvoy7b4uwkmcn.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ab10c467d63eb14e17922a5",
+      "content_id": "6ab10c467d63eb14e17922a4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ab10c467d63eb14e17922a4",
+        "6ab10c467d63eb14e17922a5"
+      ],
+      "title": "পর্ব-৪: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d5330da3-2496-4372-abbd-1dcc7790b1e9\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791120093\/x7y6izr23bvgi2ohun6e.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Oct-04",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791120093\/x7y6izr23bvgi2ohun6e.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ab10c487d63eb14e17922b0",
+      "content_id": "6ab10c487d63eb14e17922ae",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ab10c487d63eb14e17922ae",
+        "6ab10c487d63eb14e17922b0"
+      ],
+      "title": "পর্ব-২: উচ্চারণ",
+      "content_type": "LiveClass",
+      "subject_code": "923398814",
+      "subject_name": " বাংলা ২য় পত্র ",
+      "chapter_id": "ca24ef96-51fb-477f-af5d-04c89e89f156",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/8830c45c-b1eb-4a26-992f-24b01460d7e5\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791125144\/fv2w8llxp8sliokwkzdc.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Bangla 2nd Oct-04",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791125144\/fv2w8llxp8sliokwkzdc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d0c5aad334f80c163eb",
+      "content_id": "6abe3d0c5aad334f80c163ea",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d0c5aad334f80c163ea",
+        "6abe3d0c5aad334f80c163eb"
+      ],
+      "title": "CQ Solving Class: প্রাকৃতিক ভূগোল",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "bbe18be4-faf8-48e3-9d85-0b4a86503b93",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/cb84eda3-7649-4579-976f-ab7da6377a83\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791204314\/kvquxwgb7wjf85wyir1i.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Oct-05",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791204314\/kvquxwgb7wjf85wyir1i.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d115aad334f80c16414",
+      "content_id": "6abe3d115aad334f80c16413",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d115aad334f80c16413",
+        "6abe3d115aad334f80c16414"
+      ],
+      "title": "পর্ব-৬: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/7f306478-9965-4d01-972b-541a61e1b239\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791290662\/n1mso5g98ka80ieuwvls.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Oct-06",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791290662\/n1mso5g98ka80ieuwvls.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe4c43fdea62cb9cf18f1f",
+      "content_id": "6abe3d10b7e89862e2eb4ebe",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d10b7e89862e2eb4ebe",
+        "6abe4c43fdea62cb9cf18f1f"
+      ],
+      "title": "Prepositions",
+      "content_type": "LiveClass",
+      "subject_code": "555327417",
+      "subject_name": " ইংরেজি ২য় পত্র",
+      "chapter_id": "07b16407-4ac5-4b6e-9353-db4c5e78ca86",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Diba Chowdhury",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/ec76fd58-3069-4de9-a3bb-36618f295603\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791297479\/mncwpsz5hkjfqe5tevau.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 2nd Oct-06",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791297479\/mncwpsz5hkjfqe5tevau.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d165aad334f80c16438",
+      "content_id": "6abe3d165aad334f80c16437",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d165aad334f80c16437",
+        "6abe3d165aad334f80c16438"
+      ],
+      "title": "MCQ Solving Class (Recorded Class): প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c8ce48fc-952f-40bc-8238-f6ca5ec3a394\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1791286558\/owjnmua02vtiyyuep624.pdf",
+      "slides": [
+        {
+          "title": "MCQ Solving Class (Recorded): প্রাক ইসলামি আরব",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1791286558\/owjnmua02vtiyyuep624.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d1bb7e89862e2eb4ee2",
+      "content_id": "6abe3d1bb7e89862e2eb4ee1",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d1bb7e89862e2eb4ee1",
+        "6abe3d1bb7e89862e2eb4ee2"
+      ],
+      "title": "পর্ব-১: ব্রিটিশ ভারতে প্রতিনিধিত্বশীল সরকারের বিকাশ ও ভারত বিভাগ",
+      "content_type": "LiveClass",
+      "subject_code": "243345471",
+      "subject_name": "পৌরনীতি ও সুশাসন ২য় পত্র",
+      "chapter_id": "c72f6e3f-a941-4327-9d78-97cd11f17276",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Tasmia Ferdous Tithlee",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/8fc56120-7a8f-482c-9c23-b5fd3faa4bdc\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791471269\/tpvlfaxy12fdk0q5kobe.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Oct-08",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791471269\/tpvlfaxy12fdk0q5kobe.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe4c045aad334f80c1681e",
+      "content_id": "6abe3d1ab7e89862e2eb4edb",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d1ab7e89862e2eb4edb",
+        "6abe4c045aad334f80c1681e"
+      ],
+      "title": "পর্ব-৬: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/f658b7a3-8e71-4437-86dd-0f096402640f\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791470311\/ydcdny0y2yhgrf9yarvf.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Oct-08",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791470311\/ydcdny0y2yhgrf9yarvf.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac6324d8bc7a7cfa0334fc6",
+      "content_id": "6ac6324d8bc7a7cfa0334fc5",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac6324d8bc7a7cfa0334fc5",
+        "6ac6324d8bc7a7cfa0334fc6"
+      ],
+      "title": "পর্ব-১ (Recorded Class): সমাজকর্ম: প্রকৃতি এবং পরিধি",
+      "content_type": "LiveClass",
+      "subject_code": "848283848",
+      "subject_name": "সমাজকর্ম ১ম পত্র",
+      "chapter_id": "13493600-cf35-4164-b566-7f05627e7586",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/81de68ef-07a2-4b63-be6c-e52a816e5024\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842761\/gbuc0wqbjhznmkiux5ep.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27  Social Work Sep-14 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842761\/gbuc0wqbjhznmkiux5ep.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac6324eaef7efde538d9581",
+      "content_id": "6ac6324eaef7efde538d9580",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac6324eaef7efde538d9580",
+        "6ac6324eaef7efde538d9581"
+      ],
+      "title": "পর্ব-১ (Recorded Class): বাংলাদেশের কৃষি",
+      "content_type": "LiveClass",
+      "subject_code": "445899157",
+      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
+      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/10ea6c66-dd0d-460b-b8f6-ab5363f376a4\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842847\/cyg3qbaakds7zvcpbtdi.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27  Agriculture Education Sep-14 (Recorded) Part-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842847\/cyg3qbaakds7zvcpbtdi.pdf"
+        },
+        {
+          "title": "AP Class-11'27  Agriculture Education Sep-14 (Recorded) Part-02",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1757842883\/t4ckgamjaymsv0a34jnp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d235aad334f80c16468",
+      "content_id": "6abe3d225aad334f80c16467",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d225aad334f80c16467",
+        "6abe3d235aad334f80c16468"
+      ],
+      "title": "পর্ব-৫: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/7fad83c2-9f52-4ff8-a4de-4e246cde774b\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791638307\/x9ycecv9uaxyvt7n9keb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Oct-10",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791638307\/x9ycecv9uaxyvt7n9keb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d23b7e89862e2eb4ef7",
+      "content_id": "6abe3d23b7e89862e2eb4ef6",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d23b7e89862e2eb4ef6",
+        "6abe3d23b7e89862e2eb4ef7"
+      ],
+      "title": "পর্ব-১: পৃথিবীর গঠন",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "5cf85625-f39d-4ffe-a23b-72b5afdb9e3d",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/a2495ea5-16da-4b45-9a37-4be541a663cc\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791643521\/nhgr6fynf92f1abytqgq.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Oct-10",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791643521\/nhgr6fynf92f1abytqgq.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac632515a133cc9a864e9a3",
+      "content_id": "6ac632515a133cc9a864e9a2",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac632515a133cc9a864e9a2",
+        "6ac632515a133cc9a864e9a3"
+      ],
+      "title": "পর্ব-১ (Recorded Class): মনোবিজ্ঞান পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "915235853",
+      "subject_name": "মনোবিজ্ঞান ১ম পত্র",
+      "chapter_id": "71751407-e823-4abd-9e71-cbc1c3048fdb",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/b7e3f00e-ee28-4f98-a217-8609472f5d1d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758200881\/evqr729j0lnkjlvsl8ag.pdf",
+      "slides": [
+        {
+          "title": "HSC'27 Humanities Psycology  Sep-18",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758200881\/evqr729j0lnkjlvsl8ag.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe4c20e2d510470d64f7a6",
+      "content_id": "6abe3d285aad334f80c16488",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d285aad334f80c16488",
+        "6abe4c20e2d510470d64f7a6"
       ],
       "title": "সোনার তরী",
       "content_type": "LiveClass",
@@ -67,63 +1458,1292 @@
       "subject_name": "বাংলা ১ম পত্র ",
       "chapter_id": "79b2f408-cab9-4c95-a85d-ad6fa55cd2f7",
       "chapter_name": "কোয়ার্টার ১",
-      "teacher_name": "Abdullah Al Mehedi",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/1c5fb88b-d13c-4379-bb70-5fd61265f0eb\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760183513\/ktgvu5tro8jfkcuywhab.pdf",
+      "teacher_name": "Sajib Sikder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/0f16db4c-26a8-42d4-b338-8191f55792a7\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791732917\/cqutu4l4tqpui1yjern2.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 Bangla Oct-11",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760183513\/ktgvu5tro8jfkcuywhab.pdf"
+          "title": "AP Class-11'28 Bangla 1st Oct-11",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791732917\/cqutu4l4tqpui1yjern2.pdf"
         }
       ]
     },
     {
-      "id": "68ee4496f1e225adba049406",
-      "content_id": "68ee4479f1e225adba0493f0",
+      "id": "6ac63252aef7efde538d9585",
+      "content_id": "6ac63252aef7efde538d9584",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "68ee4479f1e225adba0493f0",
-        "68ee4496f1e225adba049406"
+        "6ac63252aef7efde538d9584",
+        "6ac63252aef7efde538d9585"
       ],
-      "title": "তাহারেই পড়ে মনে",
+      "title": "পর্ব-১ (Recorded Class): যুক্তিবিদ্যা পরিচিতি",
       "content_type": "LiveClass",
-      "subject_code": "609130954",
-      "subject_name": "বাংলা ১ম পত্র ",
-      "chapter_id": "6f11c258-585f-46a2-80a8-c0e5723b586b",
+      "subject_code": "243649752",
+      "subject_name": "যুক্তিবিদ্যা ১ম পত্র",
+      "chapter_id": "87cadb48-97d8-4621-ab72-dd56170c238f",
       "chapter_name": "কোয়ার্টার ১",
-      "teacher_name": "Abdullah Al Mehedi",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/ee4c4f9d-c98b-462d-927d-b2be727cfb6d\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760797598\/zes4rvx78nvzfq0ytoxq.pdf",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/cf36d79e-3138-4e0e-98b7-ba07caf4825c\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758200769\/mui4olmogpqha012rtjn.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 Bangla Oct-18",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760797598\/zes4rvx78nvzfq0ytoxq.pdf"
+          "title": "HSC'27 Humanities Logic Sep-18",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758200769\/mui4olmogpqha012rtjn.pdf"
         }
       ]
     },
     {
-      "id": "691c2263422c0a6b58e6f2f2",
-      "content_id": "691c2252422c0a6b58e6f2ea",
+      "id": "6ac6325085da24f5d9d50d68",
+      "content_id": "6ac6325085da24f5d9d50d67",
       "live_class_id": "",
       "session_id": "",
       "candidate_ids": [
-        "691c2252422c0a6b58e6f2ea",
-        "691c2263422c0a6b58e6f2f2"
+        "6ac6325085da24f5d9d50d67",
+        "6ac6325085da24f5d9d50d68"
       ],
-      "title": "আঠারো বছর বয়স",
+      "title": "পর্ব-১ (Recorded Class): সমাজবিজ্ঞানের উৎপত্তি ও বিকাশ",
+      "content_type": "LiveClass",
+      "subject_code": "736867330",
+      "subject_name": "সমাজবিজ্ঞান ১ম পত্র",
+      "chapter_id": "92ddfc0b-bed6-462e-b818-b2e0e89814db",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/3bce2849-1817-4e5c-a38f-eba92f4ee42d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758115634\/dvjchdwgw5pz7z561hjj.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 sociology Sep-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758115634\/dvjchdwgw5pz7z561hjj.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d37b7e89862e2eb4f28",
+      "content_id": "6abe3d37b7e89862e2eb4f27",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d37b7e89862e2eb4f27",
+        "6abe3d37b7e89862e2eb4f28"
+      ],
+      "title": "MCQ Solving Class: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d21e3917-cd9e-4b88-aef3-c6629c4ca33e\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791897682\/vpn64bg83gf3vileums0.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Oct-13",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791897682\/vpn64bg83gf3vileums0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe4c37fdea62cb9cf18f1a",
+      "content_id": "6abe3d36b7e89862e2eb4f23",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d36b7e89862e2eb4f23",
+        "6abe4c37fdea62cb9cf18f1a"
+      ],
+      "title": "Unit Two: Art and Craft - 01",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "5569108a-f391-4c5c-950b-ca0fc9d52548",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Ahnaf Amir Aunabil",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/7024ca94-654f-4a0a-a08c-617f97029d11\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791902594\/hb8yincjbj6g8hw78ugv.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Oct-13",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1791902594\/hb8yincjbj6g8hw78ugv.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac6324faef7efde538d9583",
+      "content_id": "6ac6324faef7efde538d9582",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac6324faef7efde538d9582",
+        "6ac6324faef7efde538d9583"
+      ],
+      "title": "পর্ব-১ (Recorded Class): পরিসংখ্যান, চলক ও প্রতীক",
+      "content_type": "LiveClass",
+      "subject_code": "225327991",
+      "subject_name": "পরিসংখ্যান ১ম পত্র",
+      "chapter_id": "eb74f2a6-ec23-4f90-bd39-60a7ddeec56b",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/5564a1d3-e339-4cb2-8e58-e9ac1f43963f\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758115840\/zbyfefa160iaex0e04ke.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 statistics Sep-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758115840\/zbyfefa160iaex0e04ke.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d3eb4118a78ab3f5cd9",
+      "content_id": "6abe3d3eb4118a78ab3f5cd8",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d3eb4118a78ab3f5cd8",
+        "6abe3d3eb4118a78ab3f5cd9"
+      ],
+      "title": "CQ Solving Class (Recorded Class): প্রাক ইসলামি আরব",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "cc407a68-bd5c-400c-9492-1c6d04483f70",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d310e871-976e-45b0-b002-1660f6b76340\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1791286587\/hlluifiivwuwp5hhe1kh.pdf",
+      "slides": [
+        {
+          "title": "CQ Solving Class (Recorded): প্রাক ইসলামি আরব",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1791286587\/hlluifiivwuwp5hhe1kh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac6325385da24f5d9d50d6a",
+      "content_id": "6ac6325385da24f5d9d50d69",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac6325385da24f5d9d50d69",
+        "6ac6325385da24f5d9d50d6a"
+      ],
+      "title": "পর্ব-২ (Recorded Class): সমাজকর্ম: প্রকৃতি এবং পরিধি",
+      "content_type": "LiveClass",
+      "subject_code": "848283848",
+      "subject_name": "সমাজকর্ম ১ম পত্র",
+      "chapter_id": "13493600-cf35-4164-b566-7f05627e7586",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/137e6f6f-3026-4e51-9400-0c983752d9ff\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758378044\/bin2cdrrh3rpr7dcxgy6.pdf",
+      "slides": [
+        {
+          "title": "AP Class 11'27 Humanities Social Work Sep-21 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758378044\/bin2cdrrh3rpr7dcxgy6.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe3d445aad334f80c164d8",
+      "content_id": "6abe3d445aad334f80c164d7",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d445aad334f80c164d7",
+        "6abe3d445aad334f80c164d8"
+      ],
+      "title": "পর্ব-২ (Recorded Class): ব্রিটিশ ভারতে প্রতিনিধিত্বশীল সরকারের বিকাশ ও ভারত বিভাগ",
+      "content_type": "LiveClass",
+      "subject_code": "243345471",
+      "subject_name": "পৌরনীতি ও সুশাসন ২য় পত্র",
+      "chapter_id": "c72f6e3f-a941-4327-9d78-97cd11f17276",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Tasmia Ferdous Tithlee",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/f49e0dbe-444e-4aa6-ae80-f1b2bfda8482\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1792057075\/hduxxft6it9ljpusjkgw.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance - পর্ব-২ (Recorded) ব্রিটিশ ভারতে প্রতিনিধিত্বশীল সরকারের বিকাশ ও ভারত বিভাগ Oct-15 [Recorded Oct-14]",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1792057075\/hduxxft6it9ljpusjkgw.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6abe4c0eb7e89862e2eb52b3",
+      "content_id": "6abe3d43b7e89862e2eb4f57",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6abe3d43b7e89862e2eb4f57",
+        "6abe4c0eb7e89862e2eb52b3"
+      ],
+      "title": "পর্ব-৭: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/5fffca5e-c271-4ea5-96b6-c1f25f42c0d9\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792084226\/rwwuwthu3vlyztdd4pgc.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Oct-15",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792084226\/rwwuwthu3vlyztdd4pgc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac6326baef7efde538d958a",
+      "content_id": "6ac6326baef7efde538d9589",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac6326baef7efde538d9589",
+        "6ac6326baef7efde538d958a"
+      ],
+      "title": "পর্ব-২ (Recorded Class): বাংলাদেশের কৃষি",
+      "content_type": "LiveClass",
+      "subject_code": "445899157",
+      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
+      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/19f6e39b-8963-4663-9b8f-3324b60e4d5b\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759670986\/hydf5rq2sg40zp03mvss.pdf",
+      "slides": [
+        {
+          "title": "Part-1 AP Class-11'27 Agriculture Work Oct-04",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759670986\/hydf5rq2sg40zp03mvss.pdf"
+        },
+        {
+          "title": "AP Class-11'27 Humanities Agricultural Education Oct-05 Part-2",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1791973322\/wjwtpl3fzkto5dkwtnev.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ac63255aef7efde538d9587",
+      "content_id": "6ac63255aef7efde538d9586",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ac63255aef7efde538d9586",
+        "6ac63255aef7efde538d9587"
+      ],
+      "title": "পর্ব-২ (Recorded Class): মনোবিজ্ঞান পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "915235853",
+      "subject_name": "মনোবিজ্ঞান ১ম পত্র",
+      "chapter_id": "71751407-e823-4abd-9e71-cbc1c3048fdb",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/0590e1b4-7809-4a99-8acf-a8a2f4185fcc\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758818419\/zkau0w4wccsqu1zqtme2.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'26_Psychology Sep-25 ",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758818419\/zkau0w4wccsqu1zqtme2.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc176c0657dbf4748089",
+      "content_id": "6acccc176c0657dbf4748088",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc176c0657dbf4748088",
+        "6acccc176c0657dbf4748089"
+      ],
+      "title": "MCQ Solving Class: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/0fe4e434-ea0c-4cda-a9e2-6a36ca485ee2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792243774\/ywlqy4ydydikjrfrigf8.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Oct-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792243774\/ywlqy4ydydikjrfrigf8.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc186c0657dbf474808b",
+      "content_id": "6acccc186c0657dbf474808a",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc186c0657dbf474808a",
+        "6acccc186c0657dbf474808b"
+      ],
+      "title": "পর্ব-২: পৃথিবীর গঠন",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "5cf85625-f39d-4ffe-a23b-72b5afdb9e3d",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/cc8daf60-df26-4f11-a531-9f1776dee24f\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792247691\/mqethyoa893rgl07ij7t.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Oct-17",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792247691\/mqethyoa893rgl07ij7t.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc1dad6d61dae3321c5f",
+      "content_id": "6acccc1dad6d61dae3321c5d",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc1dad6d61dae3321c5d",
+        "6acccc1dad6d61dae3321c5f"
+      ],
+      "title": "পর্ব-১: বিলাসী + বিদ্রোহী",
       "content_type": "LiveClass",
       "subject_code": "609130954",
       "subject_name": "বাংলা ১ম পত্র ",
-      "chapter_id": "091ee76f-a8f1-4438-87d4-50666650c49f",
+      "chapter_id": "a759e65d-ff3e-444b-9270-bd15d48c9980",
       "chapter_name": "কোয়ার্টার ১",
-      "teacher_name": "Abdullah Al Mehedi",
-      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/3df100e7-1456-4994-bf78-071736e11c92\/playlist.m3u8",
-      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1763827170\/ggp8b1yg9b7nwso4cq02.pdf",
+      "teacher_name": "Sajib Sikder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/901c103b-5475-4d13-b551-1ecbea80a8ac\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792336734\/qlmwacybb3hhsigalawt.pdf",
       "slides": [
         {
-          "title": "AP Class-11'27 Bangla Nov-22",
-          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1763827170\/ggp8b1yg9b7nwso4cq02.pdf"
+          "title": "AP Class-11'28 Bangla 1st Oct-18",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792336734\/qlmwacybb3hhsigalawt.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc2a3a30c33b1b439ea5",
+      "content_id": "6acccc2a3a30c33b1b439ea4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc2a3a30c33b1b439ea4",
+        "6acccc2a3a30c33b1b439ea5"
+      ],
+      "title": "CQ Solving Class: মৌলিক অর্থনৈতিক সমস্যা এবং এর সমাধান",
+      "content_type": "LiveClass",
+      "subject_code": "225977447",
+      "subject_name": "অর্থনীতি ১ম পত্র",
+      "chapter_id": "d3d24aa1-8cbf-430f-ad56-d14e80b0ff88",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/effb02de-eb5e-4d39-8865-0d72763d796a\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792846188\/ecwxzyszorshzaqiwhl8.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Oct-24",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792846188\/ecwxzyszorshzaqiwhl8.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc2aad6d61dae3321c6a",
+      "content_id": "6acccc2aad6d61dae3321c69",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc2aad6d61dae3321c69",
+        "6acccc2aad6d61dae3321c6a"
+      ],
+      "title": "পর্ব-৩: পৃথিবীর গঠন",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "5cf85625-f39d-4ffe-a23b-72b5afdb9e3d",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/9e2a7b20-b123-421f-92f6-2886b1a076cd\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792853772\/hb9kxgpiwwydtvoahyt6.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Oct-24",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792853772\/hb9kxgpiwwydtvoahyt6.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd1386c0657dbf4748166",
+      "content_id": "6accd1386c0657dbf4748165",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd1386c0657dbf4748165",
+        "6accd1386c0657dbf4748166"
+      ],
+      "title": "পর্ব-২ (Recorded Class): যুক্তিবিদ্যা পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "243649752",
+      "subject_name": "যুক্তিবিদ্যা ১ম পত্র",
+      "chapter_id": "87cadb48-97d8-4621-ab72-dd56170c238f",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/1660a02a-371a-4fc9-a59d-51aacc93e85d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758793068\/rpkz7y30msc5djbnd52w.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Logic Sep-25",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758793068\/rpkz7y30msc5djbnd52w.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc30d280002e9feeea78",
+      "content_id": "6acccc30d280002e9feeea76",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc30d280002e9feeea76",
+        "6acccc30d280002e9feeea78"
+      ],
+      "title": "পর্ব-২: বিলাসী + বিদ্রোহী",
+      "content_type": "LiveClass",
+      "subject_code": "609130954",
+      "subject_name": "বাংলা ১ম পত্র ",
+      "chapter_id": "a759e65d-ff3e-444b-9270-bd15d48c9980",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Sajib Sikder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/a31f510a-a414-4eed-ae89-5c6c30529d50\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792939506\/vtevlhhcawf0jbb3xxyp.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Bangla 1st Oct-25",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1792939506\/vtevlhhcawf0jbb3xxyp.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd1316c0657dbf4748164",
+      "content_id": "6accd1316c0657dbf4748163",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd1316c0657dbf4748163",
+        "6accd1316c0657dbf4748164"
+      ],
+      "title": "পর্ব-২ (Recorded Class): সমাজবিজ্ঞানের উৎপত্তি ও বিকাশ",
+      "content_type": "LiveClass",
+      "subject_code": "736867330",
+      "subject_name": "সমাজবিজ্ঞান ১ম পত্র",
+      "chapter_id": "92ddfc0b-bed6-462e-b818-b2e0e89814db",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/e99c459a-e4fa-42fd-a251-73b4b8ca7a63\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758383015\/rje9tsj93ahgjmnqcags.pdf",
+      "slides": [
+        {
+          "title": "HSC-27 Humanities Sociology Sep-18",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758383015\/rje9tsj93ahgjmnqcags.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd136d280002e9feeeb20",
+      "content_id": "6accd136d280002e9feeeb1f",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd136d280002e9feeeb1f",
+        "6accd136d280002e9feeeb20"
+      ],
+      "title": "পর্ব-২ (Recorded Class): পরিসংখ্যান, চলক ও প্রতীক",
+      "content_type": "LiveClass",
+      "subject_code": "225327991",
+      "subject_name": "পরিসংখ্যান ১ম পত্র",
+      "chapter_id": "eb74f2a6-ec23-4f90-bd39-60a7ddeec56b",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/dd1221ce-2671-412c-9a73-1e10c1b6151c\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758713118\/r3qhih77chjlzaluzrjw.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Statistics Sep-24 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758713118\/r3qhih77chjlzaluzrjw.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc40303e8446bb13771f",
+      "content_id": "6acccc40303e8446bb13771e",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc40303e8446bb13771e",
+        "6acccc40303e8446bb13771f"
+      ],
+      "title": "CQ Solving Class: ভারতবর্ষে ইউরোপীয়দের আগমনঃ ইংরেজ আধিপত্য প্রতিষ্ঠা",
+      "content_type": "LiveClass",
+      "subject_code": "581026423",
+      "subject_name": "ইতিহাস ১ম পত্র",
+      "chapter_id": "b7710540-ddb7-44fb-8e35-5e01b9b72afc",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/9fbeaf33-fcc1-4dc4-8866-aea169e89a6e\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793107095\/jegju4fs1vwnyk4ntrer.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Oct-27",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793107095\/jegju4fs1vwnyk4ntrer.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc3f6ed30f9372599c71",
+      "content_id": "6acccc3f6ed30f9372599c6f",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc3f6ed30f9372599c6f",
+        "6acccc3f6ed30f9372599c71"
+      ],
+      "title": "Unit Two: Art and Craft - 02",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "5569108a-f391-4c5c-950b-ca0fc9d52548",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Diba Chowdhury",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/5c63cbd4-c6db-48a5-a399-dbc8924b8424\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793114455\/htb7d62xfqjqu0okyjiv.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Oct-27",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793114455\/htb7d62xfqjqu0okyjiv.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd137d280002e9feeeb22",
+      "content_id": "6accd137d280002e9feeeb21",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd137d280002e9feeeb21",
+        "6accd137d280002e9feeeb22"
+      ],
+      "title": "পর্ব-৩ (Recorded Class): সমাজকর্ম: প্রকৃতি এবং পরিধি",
+      "content_type": "LiveClass",
+      "subject_code": "848283848",
+      "subject_name": "সমাজকর্ম ১ম পত্র",
+      "chapter_id": "13493600-cf35-4164-b566-7f05627e7586",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/671740ea-b2b3-40e0-aaff-bd9daab3cb2d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758713163\/k9h79ncwtzehwop701nb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanites Social Work Sep-24 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758713163\/k9h79ncwtzehwop701nb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd13fad6d61dae3321d24",
+      "content_id": "6accd13fad6d61dae3321d23",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd13fad6d61dae3321d23",
+        "6accd13fad6d61dae3321d24"
+      ],
+      "title": "MCQ Solving Class (Recorded Class): বাংলাদেশের কৃষি",
+      "content_type": "LiveClass",
+      "subject_code": "445899157",
+      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
+      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/241b7b2c-fba9-41ef-b78e-25a844788ae1\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760521757\/kfeknajm26b4no0ftbiw.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Agricultural Education Oct-04 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760521757\/kfeknajm26b4no0ftbiw.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc476ed30f9372599c7d",
+      "content_id": "6acccc476ed30f9372599c7c",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc476ed30f9372599c7c",
+        "6acccc476ed30f9372599c7d"
+      ],
+      "title": "পর্ব-১ (Recorded Class): হযরত মুহাম্মদ (স)",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "376c196b-533b-4ca2-8714-490051b7c255",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/b1fe7e85-516c-41e3-a7aa-6ce2776aa887\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1793169633\/fitobhei02nys819mmy0.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanites Islamic History Oct-28",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1793169633\/fitobhei02nys819mmy0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd13d6ed30f9372599d1b",
+      "content_id": "6accd13d6ed30f9372599d1a",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd13d6ed30f9372599d1a",
+        "6accd13d6ed30f9372599d1b"
+      ],
+      "title": "পর্ব-৩ (Recorded Class): মনোবিজ্ঞান পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "915235853",
+      "subject_name": "মনোবিজ্ঞান ১ম পত্র",
+      "chapter_id": "71751407-e823-4abd-9e71-cbc1c3048fdb",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/8221c6a5-561c-4aab-a795-2191305d5e21\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760007929\/pljffnmoyw85ylh8uwpc.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Psychology Oct-09(Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760007929\/pljffnmoyw85ylh8uwpc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc4c3a30c33b1b439ed2",
+      "content_id": "6acccc4c3a30c33b1b439ed1",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc4c3a30c33b1b439ed1",
+        "6acccc4c3a30c33b1b439ed2"
+      ],
+      "title": "পর্ব-৩: ব্রিটিশ ভারতে প্রতিনিধিত্বশীল সরকারের বিকাশ ও ভারত বিভাগ",
+      "content_type": "LiveClass",
+      "subject_code": "243345471",
+      "subject_name": "পৌরনীতি ও সুশাসন ২য় পত্র",
+      "chapter_id": "c72f6e3f-a941-4327-9d78-97cd11f17276",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Tasmia Ferdous Tithlee",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/6a185ac2-702a-48a0-9b2b-ae4ef8353406\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793278563\/ahpotvm0gfbpstebdpg0.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Oct-29",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793278563\/ahpotvm0gfbpstebdpg0.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc4b3a30c33b1b439ecd",
+      "content_id": "6acccc4b3a30c33b1b439ecb",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc4b3a30c33b1b439ecb",
+        "6acccc4b3a30c33b1b439ecd"
+      ],
+      "title": "পর্ব-৮: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/fe9adb7b-e883-4318-897b-b09067733bef\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793284671\/xo7aowboddg6bywpwr9o.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Oct-29",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793284671\/xo7aowboddg6bywpwr9o.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd13b3a30c33b1b439f7e",
+      "content_id": "6accd13b3a30c33b1b439f7d",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd13b3a30c33b1b439f7d",
+        "6accd13b3a30c33b1b439f7e"
+      ],
+      "title": "পর্ব-৩ (Recorded): যুক্তিবিদ্যা পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "243649752",
+      "subject_name": "যুক্তিবিদ্যা ১ম পত্র",
+      "chapter_id": "87cadb48-97d8-4621-ab72-dd56170c238f",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c966da97-bcd5-4cf9-b1e6-454106355d34\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759665120\/y33qxedogsrx456jbp82.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Logic Oct-05",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759665120\/y33qxedogsrx456jbp82.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd135d280002e9feeeb1d",
+      "content_id": "6accd135d280002e9feeeb1c",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd135d280002e9feeeb1c",
+        "6accd135d280002e9feeeb1d"
+      ],
+      "title": "পর্ব-৩ (Recorded Class): সমাজবিজ্ঞানের উৎপত্তি ও বিকাশ",
+      "content_type": "LiveClass",
+      "subject_code": "736867330",
+      "subject_name": "সমাজবিজ্ঞান ১ম পত্র",
+      "chapter_id": "92ddfc0b-bed6-462e-b818-b2e0e89814db",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/e98cabb1-de19-4778-8c9c-e0e28b7874a2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758377839\/whuw0xmwpzxxxa9bdam9.pdf",
+      "slides": [
+        {
+          "title": "AP Class 11'27 Humanities Sociology Sep-21 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758377839\/whuw0xmwpzxxxa9bdam9.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6acccc54923c01ed0b14c9c5",
+      "content_id": "6acccc54923c01ed0b14c9c4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6acccc54923c01ed0b14c9c4",
+        "6acccc54923c01ed0b14c9c5"
+      ],
+      "title": "পর্ব-১: বাংলাদেশের অর্থনীতি পরিচয়",
+      "content_type": "LiveClass",
+      "subject_code": "996824152",
+      "subject_name": "অর্থনীতি ২য় পত্র",
+      "chapter_id": "a4123f3b-5580-402d-853c-d486ddaa9f2e",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/34106d13-2d88-4c6d-a967-d688ffefcad0\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793450499\/pfn5ttdp6sjc1bx0kxjb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Oct-31",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793450499\/pfn5ttdp6sjc1bx0kxjb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd13a6ed30f9372599d17",
+      "content_id": "6accd13a6ed30f9372599d16",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd13a6ed30f9372599d16",
+        "6accd13a6ed30f9372599d17"
+      ],
+      "title": "MCQ Solving Class (Recorded Class): সমাজকর্ম: প্রকৃতি এবং পরিধি",
+      "content_type": "LiveClass",
+      "subject_code": "848283848",
+      "subject_name": "সমাজকর্ম ১ম পত্র",
+      "chapter_id": "13493600-cf35-4164-b566-7f05627e7586",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/9d0e964d-3986-4a7e-be2a-bb289e0d3092\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758792448\/l2mb0qqndey5u2hovgnu.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Social Work Sep-25",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1758792448\/l2mb0qqndey5u2hovgnu.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6accd13c6ed30f9372599d19",
+      "content_id": "6accd13c6ed30f9372599d18",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6accd13c6ed30f9372599d18",
+        "6accd13c6ed30f9372599d19"
+      ],
+      "title": "MCQ Solving Class (Recorded Class): পরিসংখ্যান, চলক ও প্রতীক",
+      "content_type": "LiveClass",
+      "subject_code": "225327991",
+      "subject_name": "পরিসংখ্যান ১ম পত্র",
+      "chapter_id": "eb74f2a6-ec23-4f90-bd39-60a7ddeec56b",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d3501564-f737-4705-a736-8015af390a42\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759826455\/mk3yhq9g9h5xv6404vzb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Statistics Oct-08 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759826455\/mk3yhq9g9h5xv6404vzb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df2bddd5b87525339067",
+      "content_id": "6ae1df2bddd5b87525339066",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df2bddd5b87525339066",
+        "6ae1df2bddd5b87525339067"
+      ],
+      "title": "MCQ Solving Class: পৃথিবীর গঠন",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "5cf85625-f39d-4ffe-a23b-72b5afdb9e3d",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/8c6ebdb5-14c7-4547-b2f5-dbd7d7a0b38d\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793547805\/g3rj0cdcqdax3ygoc6rz.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Nov-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793547805\/g3rj0cdcqdax3ygoc6rz.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df2addd5b87525339064",
+      "content_id": "6ae1df2addd5b87525339062",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df2addd5b87525339062",
+        "6ae1df2addd5b87525339064"
+      ],
+      "title": "পর্ব-১: বানান",
+      "content_type": "LiveClass",
+      "subject_code": "923398814",
+      "subject_name": " বাংলা ২য় পত্র ",
+      "chapter_id": "bd721c9f-31ba-48d0-a8c6-ade38683dbba",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/f1d734f1-7588-4e9c-a46a-f38d721523ec\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793547604\/yz6lre0sa46keasgtwoj.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 Bangla 2nd Nov-01",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793547604\/yz6lre0sa46keasgtwoj.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca52a5f646e99869b922",
+      "content_id": "6ae1ca52a5f646e99869b921",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca52a5f646e99869b921",
+        "6ae1ca52a5f646e99869b922"
+      ],
+      "title": "CQ Solving Class (Recorded Class): বাংলাদেশের কৃষি",
+      "content_type": "LiveClass",
+      "subject_code": "445899157",
+      "subject_name": "কৃষি শিক্ষা ১ম পত্র",
+      "chapter_id": "fb921bdd-2591-44ed-81dd-60b450cc7f36",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/1fbe8127-fe71-407e-9e59-68ad02b321d5\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1793525673\/osnn2b6aw4bjqlqbuepn.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Agricultural Education Oct-04 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1793525673\/osnn2b6aw4bjqlqbuepn.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca50a5f646e99869b920",
+      "content_id": "6ae1ca50a5f646e99869b91f",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca50a5f646e99869b91f",
+        "6ae1ca50a5f646e99869b920"
+      ],
+      "title": "পর্ব-৪ (Recorded Class): মনোবিজ্ঞান পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "915235853",
+      "subject_name": "মনোবিজ্ঞান ১ম পত্র",
+      "chapter_id": "71751407-e823-4abd-9e71-cbc1c3048fdb",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/0422f268-fc74-4bc8-af7d-cc1de0c0d8ac\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760260557\/ouaawpzjomaxyrosaw4a.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Psychology Oct-12 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760260557\/ouaawpzjomaxyrosaw4a.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df37ddd5b87525339095",
+      "content_id": "6ae1df37ddd5b87525339093",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df37ddd5b87525339093",
+        "6ae1df37ddd5b87525339095"
+      ],
+      "title": "Unit Two: Art and Craft - 03",
+      "content_type": "LiveClass",
+      "subject_code": "456811124",
+      "subject_name": "ইংরেজি ১ম পত্র ",
+      "chapter_id": "5569108a-f391-4c5c-950b-ca0fc9d52548",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Ahnaf Amir Aunabil",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/ef3bd982-ae08-465f-bada-38b03395fe10\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793723618\/evtqd6agn9cxuvdcc6yc.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 English 1st Nov-03",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793723618\/evtqd6agn9cxuvdcc6yc.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca5a186abbdc9358c557",
+      "content_id": "6ae1ca59186abbdc9358c556",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca59186abbdc9358c556",
+        "6ae1ca5a186abbdc9358c557"
+      ],
+      "title": "পর্ব-২ (Recorded Class): হযরত মুহাম্মদ (স)",
+      "content_type": "LiveClass",
+      "subject_code": "462960982",
+      "subject_name": "ইসলামের ইতিহাস ও সংস্কৃতি ১ম পত্র",
+      "chapter_id": "376c196b-533b-4ca2-8714-490051b7c255",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d39a7318-37c0-45b6-bc72-da632acedee2\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1762346986\/e9yojf9npdigzstdjsng.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Islamic History Oct-29",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1762346986\/e9yojf9npdigzstdjsng.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca4c186abbdc9358c549",
+      "content_id": "6ae1ca4c186abbdc9358c548",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca4c186abbdc9358c548",
+        "6ae1ca4c186abbdc9358c549"
+      ],
+      "title": "MCQ Solving Class (Recorded Class): যুক্তিবিদ্যা পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "243649752",
+      "subject_name": "যুক্তিবিদ্যা ১ম পত্র",
+      "chapter_id": "87cadb48-97d8-4621-ab72-dd56170c238f",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c9eb654d-d23d-4daa-8307-d8222bdb3fb9\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760007939\/gsxvdo9l99n09ur0szak.pdf",
+      "slides": [
+        {
+          "title": "AP Class11'27 Humanities Logic Oct-09(Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760007939\/gsxvdo9l99n09ur0szak.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca4b186abbdc9358c547",
+      "content_id": "6ae1ca4b186abbdc9358c546",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca4b186abbdc9358c546",
+        "6ae1ca4b186abbdc9358c547"
+      ],
+      "title": "পর্ব-৪ (Recorded Class): সমাজবিজ্ঞানের উৎপত্তি ও বিকাশ",
+      "content_type": "LiveClass",
+      "subject_code": "736867330",
+      "subject_name": "সমাজবিজ্ঞান ১ম পত্র",
+      "chapter_id": "92ddfc0b-bed6-462e-b818-b2e0e89814db",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/a6870027-a2fc-4292-9a32-c5e2445560db\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759926935\/i2jeuuq1ugdsmcimarlr.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Sociology Oct-08(Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759926935\/i2jeuuq1ugdsmcimarlr.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df47ddd5b875253390c5",
+      "content_id": "6ae1df47ddd5b875253390c4",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df47ddd5b875253390c4",
+        "6ae1df47ddd5b875253390c5"
+      ],
+      "title": "পর্ব-৪: ব্রিটিশ ভারতে প্রতিনিধিত্বশীল সরকারের বিকাশ ও ভারত বিভাগ",
+      "content_type": "LiveClass",
+      "subject_code": "243345471",
+      "subject_name": "পৌরনীতি ও সুশাসন ২য় পত্র",
+      "chapter_id": "c72f6e3f-a941-4327-9d78-97cd11f17276",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/88a3a898-4eed-4f23-9a54-91a7d19eb37b\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793803895\/sv3o6recdatk0xzqq5mh.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Civics & Good Governance Nov-04",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793803895\/sv3o6recdatk0xzqq5mh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df3f186abbdc9358c913",
+      "content_id": "6ae1df3f186abbdc9358c912",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df3f186abbdc9358c912",
+        "6ae1df3f186abbdc9358c913"
+      ],
+      "title": "পর্ব-১: শিল্প বিপ্লব",
+      "content_type": "LiveClass",
+      "subject_code": "154123238",
+      "subject_name": "ইতিহাস ২য় পত্র",
+      "chapter_id": "0f07d18f-9e1f-4616-a329-34aafd076bf7",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/dfcd3695-f82a-4ece-bc19-078aaccd0223\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793805396\/fuxiid3scegli6g2ghgh.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) History Nov-04",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793805396\/fuxiid3scegli6g2ghgh.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca49186abbdc9358c545",
+      "content_id": "6ae1ca49186abbdc9358c544",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca49186abbdc9358c544",
+        "6ae1ca49186abbdc9358c545"
+      ],
+      "title": "MCQ Solving Class (Recorded Class): পরিসংখ্যান, চলক ও প্রতীক",
+      "content_type": "LiveClass",
+      "subject_code": "225327991",
+      "subject_name": "পরিসংখ্যান ১ম পত্র",
+      "chapter_id": "eb74f2a6-ec23-4f90-bd39-60a7ddeec56b",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d3501564-f737-4705-a736-8015af390a42\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759826455\/mk3yhq9g9h5xv6404vzb.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Statistics Oct-08 (Recorded)",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1759826455\/mk3yhq9g9h5xv6404vzb.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df46a5f646e99869bc8b",
+      "content_id": "6ae1df46a5f646e99869bc89",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df46a5f646e99869bc89",
+        "6ae1df46a5f646e99869bc8b"
+      ],
+      "title": "পর্ব-৯: সংখ্যা পদ্ধতি ও ডিজিটাল ডিভাইস",
+      "content_type": "LiveClass",
+      "subject_code": "743165126",
+      "subject_name": "তথ্য ও যোগাযোগ প্রযুক্তি",
+      "chapter_id": "dc81c3dc-04f2-401c-aa28-67772ba4bf66",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Ruman Khandoker",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/f3ee8124-60c4-4b75-8cd1-40b7e3aa1dbf\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793891612\/yyfrmrczdrzx7dobape4.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 ICT Nov-05",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1793891612\/yyfrmrczdrzx7dobape4.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca48186abbdc9358c542",
+      "content_id": "6ae1ca48186abbdc9358c541",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca48186abbdc9358c541",
+        "6ae1ca48186abbdc9358c542"
+      ],
+      "title": "CQ Solving Class (Recorded Class): সমাজকর্ম: প্রকৃতি এবং পরিধি",
+      "content_type": "LiveClass",
+      "subject_code": "848283848",
+      "subject_name": "সমাজকর্ম ১ম পত্র",
+      "chapter_id": "13493600-cf35-4164-b566-7f05627e7586",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Hironmoy Bowali",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/ae5c01da-cf7a-42a7-86c5-455b6faaf7a9\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1793788557\/xizzi408sc5heebprmdk.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Social Work Sep-25",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/raw\/upload\/v1793788557\/xizzi408sc5heebprmdk.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca5c186abbdc9358c55b",
+      "content_id": "6ae1ca5c186abbdc9358c55a",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca5c186abbdc9358c55a",
+        "6ae1ca5c186abbdc9358c55b"
+      ],
+      "title": "পর্ব-১ (Recorded Class): মাৎস্য চাষ",
+      "content_type": "LiveClass",
+      "subject_code": "175583650",
+      "subject_name": "কৃষি শিক্ষা ২য় পত্র",
+      "chapter_id": "491cec58-5896-4bfb-ac1c-891cd410bafa",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Md. Sayedur Rahman",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/68eb5e9f-fe2f-433c-ba6c-ef3455e7f3fb\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1763292655\/xbn0h5rwkiwue5lnghji.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Agriculture Education Nov-16",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1763292655\/xbn0h5rwkiwue5lnghji.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df4f3e5e7dc7afe7947d",
+      "content_id": "6ae1df4f3e5e7dc7afe7947c",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df4f3e5e7dc7afe7947c",
+        "6ae1df4f3e5e7dc7afe7947d"
+      ],
+      "title": "পর্ব-২: বাংলাদেশের অর্থনীতি পরিচয়",
+      "content_type": "LiveClass",
+      "subject_code": "996824152",
+      "subject_name": "অর্থনীতি ২য় পত্র",
+      "chapter_id": "a4123f3b-5580-402d-853c-d486ddaa9f2e",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Mobin Mozumder",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/c17da398-1fd4-4b80-b4d0-905170a03428\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1794056845\/vxgvon9a4erx3uu6ykw7.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Economics Nov-07",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1794056845\/vxgvon9a4erx3uu6ykw7.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1df4fa5f646e99869bcaa",
+      "content_id": "6ae1df4fa5f646e99869bca9",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1df4fa5f646e99869bca9",
+        "6ae1df4fa5f646e99869bcaa"
+      ],
+      "title": "CQ Solving Class: পৃথিবীর গঠন",
+      "content_type": "LiveClass",
+      "subject_code": "745934782",
+      "subject_name": "ভূগোল ১ম পত্র",
+      "chapter_id": "5cf85625-f39d-4ffe-a23b-72b5afdb9e3d",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/b04660cb-070c-4feb-a90b-1ba94548a0ab\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1794062524\/klgzulxu20isuuionjo9.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'28 (Hum) Geography Nov-07",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1794062524\/klgzulxu20isuuionjo9.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca53186abbdc9358c54d",
+      "content_id": "6ae1ca53186abbdc9358c54c",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca53186abbdc9358c54c",
+        "6ae1ca53186abbdc9358c54d"
+      ],
+      "title": "পর্ব-৫ (Recorded Class): মনোবিজ্ঞান পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "915235853",
+      "subject_name": "মনোবিজ্ঞান ১ম পত্র",
+      "chapter_id": "71751407-e823-4abd-9e71-cbc1c3048fdb",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Kamrul Hasan Shahedin",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/d0219b61-32d3-4ea8-8497-b89f45680ab7\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760613729\/qgnqol4upoyf46jcq7xm.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Psychology Oct-16",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760613729\/qgnqol4upoyf46jcq7xm.pdf"
+        }
+      ]
+    },
+    {
+      "id": "6ae1ca55186abbdc9358c54f",
+      "content_id": "6ae1ca55186abbdc9358c54e",
+      "live_class_id": "",
+      "session_id": "",
+      "candidate_ids": [
+        "6ae1ca55186abbdc9358c54e",
+        "6ae1ca55186abbdc9358c54f"
+      ],
+      "title": "CQ Solving Class (Recorded Class): যুক্তিবিদ্যা পরিচিতি",
+      "content_type": "LiveClass",
+      "subject_code": "243649752",
+      "subject_name": "যুক্তিবিদ্যা ১ম পত্র",
+      "chapter_id": "87cadb48-97d8-4621-ab72-dd56170c238f",
+      "chapter_name": "কোয়ার্টার ১",
+      "teacher_name": "Raihan A. R Khan",
+      "video_url": "https:\/\/shikho-stream2.tenbytecdn.com\/9cafe1e5-cb83-42e4-add7-ad7870ec1941\/playlist.m3u8",
+      "slide_url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760613634\/s10czxmy01qj5aawxhrn.pdf",
+      "slides": [
+        {
+          "title": "AP Class-11'27 Humanities Logic Oct-16",
+          "url": "https:\/\/res.cloudinary.com\/cross-border-education-technologies-pte-ltd\/image\/upload\/v1760613634\/s10czxmy01qj5aawxhrn.pdf"
         }
       ]
     }
