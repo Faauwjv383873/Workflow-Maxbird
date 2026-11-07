@@ -9,7 +9,7 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "65c89c22d6bec2da54",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-07T03:19:16.503576+00:00",
+  "updated_at": "2026-11-07T03:19:22.446049+00:00",
   "telegram_session_string": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg/TaD+dzU1lCA3+SFyJxn1p/vIeapDQ6aEqa5FJD5HBSyEYrSl/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f/vf7SM66aNy2I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -48,16 +48,6 @@
       "id": "-1003327225425",
       "title": ";\"!\"!! \"\"!! @",
       "username": "ndndbzxqjhddbhsbdqikwhhe",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1001917138540",
-      "title": "Getmodpc's family",
-      "username": "Getmodpc_family",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": false,
@@ -208,6 +198,26 @@
       ]
     },
     {
+      "id": "-1004415186689",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি • ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "username": "",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1001917138540",
+      "title": "Getmodpc's family",
+      "username": "Getmodpc_family",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
       "id": "-1002289335186",
       "title": "B BONGO MEMBERS CHAT",
       "username": "bbongoarif",
@@ -231,26 +241,6 @@
       "id": "-1002642154956",
       "title": "𝐋𝐞𝐭'𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬",
       "username": "STUDY_ROOM_DISCUSSION",
-      "is_channel": false,
-      "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004384836219",
-      "title": "HSC '27 মানবিক - ২য় বর্ষ প্রস্তুতি",
-      "username": "",
-      "is_channel": true,
-      "is_megagroup": false,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004457319612",
-      "title": "তথ্য ও যোগাযোগ প্রযুক্তি • ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
-      "username": "",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": false,
@@ -615,6 +605,16 @@
       "username": "",
       "is_channel": false,
       "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
+      "id": "-1004386596804",
+      "title": "Shnshnskddjddbdnd",
+      "username": "hddbbdhdbdbbebebhff",
+      "is_channel": true,
+      "is_megagroup": false,
       "is_forum": false,
       "can_post": true,
       "topics": []
