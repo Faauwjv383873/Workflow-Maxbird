@@ -4,12 +4,12 @@
   "telegram_api_hash": "a4194e506db4ad97f1dba20ec28ac383",
   "telegram_phone": "+8801774077462",
   "telegram_otp_code": "67275",
-  "telegram_2fa_password": "ENC1:b4v\/jXHl0l8jpQ==",
+  "telegram_2fa_password": "ENC1:b4v/jXHl0l8jpQ==",
   "telegram_auth_state": "VERIFYING_OTP",
   "telegram_auth_message": "🔐 ওটিপি ভেরিফাই হচ্ছে... (মাত্র ৫-১০ সেকেন্ড অপেক্ষা করুন)",
   "telegram_phone_code_hash": "65c89c22d6bec2da54",
-  "telegram_partial_session": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg\/TaD+dzU1lCA3+SFyJxn1p\/vIeapDQ6aEqa5FJD5HBSyEYrSl\/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX\/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f\/vf7SM66aNy2I=",
-  "updated_at": "2026-11-07T03:11:00.067136+00:00",
+  "telegram_partial_session": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg/TaD+dzU1lCA3+SFyJxn1p/vIeapDQ6aEqa5FJD5HBSyEYrSl/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f/vf7SM66aNy2I=",
+  "updated_at": "2026-11-07T03:11:26.415332+00:00",
   "telegram_session_string": "",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
@@ -55,6 +55,16 @@
       "topics": []
     },
     {
+      "id": "-1001917138540",
+      "title": "Getmodpc's family",
+      "username": "Getmodpc_family",
+      "is_channel": false,
+      "is_megagroup": true,
+      "is_forum": false,
+      "can_post": true,
+      "topics": []
+    },
+    {
       "id": "-1003245997544",
       "title": "POWER PLAY 27",
       "username": "POWER_PLAY_2027",
@@ -62,12 +72,145 @@
       "is_megagroup": true,
       "is_forum": true,
       "can_post": true,
-      "topics": []
+      "topics": [
+        {
+          "id": 1,
+          "title": "General"
+        },
+        {
+          "id": 1592,
+          "title": "MESSENGER"
+        },
+        {
+          "id": 4638,
+          "title": "ROUTINE"
+        },
+        {
+          "id": 4636,
+          "title": "ANNOUNCEMENT"
+        },
+        {
+          "id": 4633,
+          "title": "NOTICE"
+        },
+        {
+          "id": 4626,
+          "title": "BIOLOGY 2ND"
+        },
+        {
+          "id": 4624,
+          "title": "BIOLOGY 1ST"
+        },
+        {
+          "id": 4621,
+          "title": "H.MATH 2ND"
+        },
+        {
+          "id": 4619,
+          "title": "H.MATH 1ST"
+        },
+        {
+          "id": 4617,
+          "title": "CHEMISTRY 2ND"
+        },
+        {
+          "id": 4614,
+          "title": "CHEMISTRY 1ST"
+        },
+        {
+          "id": 4612,
+          "title": "PHYSICS 2ND"
+        },
+        {
+          "id": 4610,
+          "title": "PHYSICS 1ST"
+        },
+        {
+          "id": 4587,
+          "title": "ICT"
+        },
+        {
+          "id": 4585,
+          "title": "ENGLISH ALL IN ONE"
+        },
+        {
+          "id": 4583,
+          "title": "BANGLA ALL IN ONE"
+        },
+        {
+          "id": 581,
+          "title": "NOTICE"
+        },
+        {
+          "id": 35,
+          "title": "ARCHIVE"
+        },
+        {
+          "id": 23,
+          "title": "CHEMISTRY 2ND PAPER"
+        },
+        {
+          "id": 15,
+          "title": "CHEMISTRY 1ST PAPER"
+        },
+        {
+          "id": 16,
+          "title": "BIOLOGY 1ST PAPER"
+        },
+        {
+          "id": 26,
+          "title": "PHYSICS 1ST PAPER"
+        },
+        {
+          "id": 5,
+          "title": "MATH 1ST PAPER"
+        },
+        {
+          "id": 3174,
+          "title": "ADMISSION 26"
+        },
+        {
+          "id": 323,
+          "title": "Course Update"
+        },
+        {
+          "id": 2800,
+          "title": "BP ONE SHOT HSC 26"
+        },
+        {
+          "id": 3,
+          "title": "ENGLISH 1ST & 2ND"
+        },
+        {
+          "id": 2,
+          "title": "BANGLA"
+        },
+        {
+          "id": 4,
+          "title": "ICT"
+        },
+        {
+          "id": 27,
+          "title": "PHYSICS 2ND PAPER"
+        },
+        {
+          "id": 21,
+          "title": "BIOLOGY 2ND PAPER"
+        },
+        {
+          "id": 25,
+          "title": "MATH 2ND PAPER"
+        },
+        {
+          "id": 332,
+          "title": "MENTORSHIP CLASS"
+        }
+      ]
     },
     {
-      "id": "-1002642154956",
-      "title": "𝐋𝐞𝐭'𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬",
-      "username": "STUDY_ROOM_DISCUSSION",
+      "id": "-1002289335186",
+      "title": "B BONGO MEMBERS CHAT",
+      "username": "bbongoarif",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": false,
@@ -85,9 +228,9 @@
       "topics": []
     },
     {
-      "id": "-1002289335186",
-      "title": "B BONGO MEMBERS CHAT",
-      "username": "bbongoarif",
+      "id": "-1002642154956",
+      "title": "𝐋𝐞𝐭'𝐬 𝐃𝐢𝐬𝐜𝐮𝐬𝐬",
+      "username": "STUDY_ROOM_DISCUSSION",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": false,
@@ -105,9 +248,9 @@
       "topics": []
     },
     {
-      "id": "-1001917138540",
-      "title": "Getmodpc's family",
-      "username": "Getmodpc_family",
+      "id": "-1004457319612",
+      "title": "তথ্য ও যোগাযোগ প্রযুক্তি • ডেটাবেজ ম্যানেজমেন্ট সিস্টেম",
+      "username": "",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": false,
@@ -142,7 +285,76 @@
       "is_megagroup": true,
       "is_forum": true,
       "can_post": true,
-      "topics": []
+      "topics": [
+        {
+          "id": 1,
+          "title": "General"
+        },
+        {
+          "id": 463,
+          "title": "Let's Discuss"
+        },
+        {
+          "id": 1376,
+          "title": "FREE COURSE"
+        },
+        {
+          "id": 786,
+          "title": "NOTICE"
+        },
+        {
+          "id": 7,
+          "title": "Biology 1st"
+        },
+        {
+          "id": 15,
+          "title": "Math 2nd Paper"
+        },
+        {
+          "id": 9,
+          "title": "PHYSICS 1ST PAPER"
+        },
+        {
+          "id": 13,
+          "title": "Bangla 2nd"
+        },
+        {
+          "id": 8,
+          "title": "Chemistry 1st"
+        },
+        {
+          "id": 6,
+          "title": "Biology 2nd"
+        },
+        {
+          "id": 5,
+          "title": "Math 1st"
+        },
+        {
+          "id": 12,
+          "title": "English 1st"
+        },
+        {
+          "id": 14,
+          "title": "Bangla 1st"
+        },
+        {
+          "id": 4,
+          "title": "English 2nd"
+        },
+        {
+          "id": 10,
+          "title": "ICT"
+        },
+        {
+          "id": 3,
+          "title": "Chemistry 2nd"
+        },
+        {
+          "id": 16,
+          "title": "Physics 2nd"
+        }
+      ]
     },
     {
       "id": "-1002487425219",
@@ -162,7 +374,32 @@
       "is_megagroup": true,
       "is_forum": true,
       "can_post": true,
-      "topics": []
+      "topics": [
+        {
+          "id": 1,
+          "title": "Shikho"
+        },
+        {
+          "id": 33,
+          "title": "বাংলা 2য় পত্র"
+        },
+        {
+          "id": 34,
+          "title": "তথ্য ও যোগাযোগ প্রযুক্তি"
+        },
+        {
+          "id": 36,
+          "title": "ইংরেজি 2য় পত্র"
+        },
+        {
+          "id": 35,
+          "title": "ইংরেজি ১ম পত্র"
+        },
+        {
+          "id": 32,
+          "title": "বাংলা ১ম পত্র"
+        }
+      ]
     },
     {
       "id": "-1002922102899",
@@ -176,13 +413,114 @@
     },
     {
       "id": "-1002607757498",
-      "title": "HSC 27\/28 ACS\/ REDWAN METHOD\/UDVASH ALL FREE COURSE",
+      "title": "HSC 27/28 ACS/ REDWAN METHOD/UDVASH ALL FREE COURSE",
       "username": "hsc27_hsc28_acs",
       "is_channel": false,
       "is_megagroup": true,
       "is_forum": true,
       "can_post": true,
-      "topics": []
+      "topics": [
+        {
+          "id": 1,
+          "title": "General"
+        },
+        {
+          "id": 18659,
+          "title": "BANGLA BAZ 8.0"
+        },
+        {
+          "id": 19389,
+          "title": "PAID COURSES"
+        },
+        {
+          "id": 18677,
+          "title": "HSC 28 ACS SUBRO VAI BIOLOGY CYCLE 01"
+        },
+        {
+          "id": 18674,
+          "title": "HSC 28 ACS PHYSICS CYCLE 01"
+        },
+        {
+          "id": 18675,
+          "title": "HSC 28 ACS MATH CYCLE 01"
+        },
+        {
+          "id": 18676,
+          "title": "HSC 28 ACS CHEMISTRY CYCLE 01"
+        },
+        {
+          "id": 18657,
+          "title": "ICT 28"
+        },
+        {
+          "id": 18660,
+          "title": "ENGLISH WINNER 6.0"
+        },
+        {
+          "id": 18673,
+          "title": "HSC 27 BIOLOGY HESTERS CYCLE 01"
+        },
+        {
+          "id": 18670,
+          "title": "HSC 27 BP CHEMISTRY 1 ST PAPER"
+        },
+        {
+          "id": 18669,
+          "title": "HSC 27 HIGHER MATH CYCLE 01"
+        },
+        {
+          "id": 18668,
+          "title": "HSC 27 ACS PHYSICS CYCLE 01"
+        },
+        {
+          "id": 18672,
+          "title": "HSC 27 BIOLOGY SUBRO VAI CYCLE 07"
+        },
+        {
+          "id": 18681,
+          "title": "HSC 27 CHINMOY PHYSICS CYCLE 04"
+        },
+        {
+          "id": 18682,
+          "title": "FREE HAND WRITTING"
+        },
+        {
+          "id": 18667,
+          "title": "HSC 27 BP CHEMISTRY 1 ST PAPER"
+        },
+        {
+          "id": 18678,
+          "title": "BANGLA BAZ 7.0"
+        },
+        {
+          "id": 18679,
+          "title": "HSC 27 CHINMOY PHYSICH CYCLE 03"
+        },
+        {
+          "id": 19333,
+          "title": "ALORON 27 FIRST PAPER"
+        },
+        {
+          "id": 18664,
+          "title": "REDWAN HSC 27 ICT"
+        },
+        {
+          "id": 18663,
+          "title": "UDVASH HSC 27 ICT"
+        },
+        {
+          "id": 18661,
+          "title": "UDVASH HSC 27 BANGLA"
+        },
+        {
+          "id": 18662,
+          "title": "UDVASH HSC 27 ENGLISH"
+        },
+        {
+          "id": 18671,
+          "title": "HSC 27 BIOLOGY SUBRO VAI CYCLE 01"
+        }
+      ]
     },
     {
       "id": "-1003533437678",
@@ -212,7 +550,64 @@
       "is_megagroup": true,
       "is_forum": true,
       "can_post": true,
-      "topics": []
+      "topics": [
+        {
+          "id": 1,
+          "title": "General"
+        },
+        {
+          "id": 12,
+          "title": "Higher Math 1st Paper"
+        },
+        {
+          "id": 10,
+          "title": "ICT"
+        },
+        {
+          "id": 24,
+          "title": "Biology 1st Paper"
+        },
+        {
+          "id": 20,
+          "title": "Physics 1st Paper"
+        },
+        {
+          "id": 8,
+          "title": "English 2nd Paper"
+        },
+        {
+          "id": 6,
+          "title": "English 1st Paper"
+        },
+        {
+          "id": 18,
+          "title": "Chemistry 2nd Paper"
+        },
+        {
+          "id": 2,
+          "title": "Bangla 1st Paper"
+        },
+        {
+          "id": 26,
+          "title": "Biology 2nd Paper"
+        },
+        {
+          "id": 16,
+          "title": "Chemistry 1st Paper"
+        },
+        {
+          "id": 4,
+          "title": "Bangla 2nd Paper"
+        },
+        {
+          "id": 22,
+          "title": "Physics 2nd Paper"
+        },
+        {
+          "id": 14,
+          "title": "Higher Math 2nd Paper"
+        }
+      ]
     },
     {
       "id": "-1004395971707",
@@ -220,16 +615,6 @@
       "username": "",
       "is_channel": false,
       "is_megagroup": true,
-      "is_forum": false,
-      "can_post": true,
-      "topics": []
-    },
-    {
-      "id": "-1004386596804",
-      "title": "Shnshnskddjddbdnd",
-      "username": "hddbbdhdbdbbebebhff",
-      "is_channel": true,
-      "is_megagroup": false,
       "is_forum": false,
       "can_post": true,
       "topics": []
