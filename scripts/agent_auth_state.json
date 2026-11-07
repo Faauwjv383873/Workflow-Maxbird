@@ -9,19 +9,19 @@
   "telegram_auth_message": "✅ টেলিগ্রাম সফলভাবে কানেক্ট হয়েছে! (Maxbird (@MaxbirdPro))",
   "telegram_phone_code_hash": "65c89c22d6bec2da54",
   "telegram_partial_session": "",
-  "updated_at": "2026-11-07T03:11:27.396290+00:00",
+  "updated_at": "2026-11-07T03:14:23.041739+00:00",
   "telegram_session_string": "ENC1:bviezjaarQcHtlHbmT6yxnMCuAmVlOPz1wzBr8OUmO1t0IX2F5uDHnLyT++7LZDsXQCmEqrF04Xhe7a9+Yuo6heCh8APsY0QAvtVrrMe5ctDKJsGt9OJzMt3vofUjajWKs2rzAz4hykpjE7urkST1WcS+iesk8XuuE6zgcuwhfIlzIXvGvjVMRKyENG5MbXeTgyCMJTCltfFecmv+JCH0gXfo9t1o58+CodHpoUgkvReAYd9jJHI58NGyrLjqMfuKozx4Aqa0QZwkXX5mB2M8HAg/TaD+dzU1lCA3+SFyJxn1p/vIeapDQ6aEqa5FJD5HBSyEYrSl/3UbaiJz6HJ7zfYu9Mwj4k+BKgRpY8ni9FpUp0TnPzX/LdxvoqbsY7QN+OMzhKZoQUVmnzduDKNxGUV+CO9zsLct2HPmZqzr50P+5n+c7OWMA6rC9P4GIzFQQy8B4qQ6f/vf7SM66aNy2I=",
   "telegram_account_name": "Maxbird (@MaxbirdPro)",
   "active_task": {
-    "id": "task_1794020894240",
-    "status": "FAILED",
+    "id": "task_1793985496278",
+    "status": "RUNNING",
     "completed_items": 0,
     "total_items": 0,
-    "current_item_title": "টেলিগ্রাম সেশন রিসেট প্রয়োজন",
-    "status_message": "⚠️ টেলিগ্রাম সেশনটি দুই আলাদা IP থেকে একই সময়ে ব্যবহারের কারণে টেলিগ্রাম সার্ভার থেকে বাতিল হয়ে গেছে। অনুগ্রহ করে সেটিংস (⚙️) থেকে ১ বার পুনরায় টেলিগ্রাম OTP দিয়ে কানেক্ট করুন (এখন সিঙ্গেল-সেশন লক যুক্ত করা হয়েছে, তাই আর কখনো বাতিল হবে না)!",
+    "current_item_title": "",
+    "status_message": "টেলিগ্রাম অ্যাকাউন্ট ও কোর্সের সার্ভারের সাথে সংযোগ স্থাপন করা হচ্ছে...",
     "target_chat_id": "",
     "telegram_invite_link": "",
-    "github_run_id": "42332592722"
+    "github_run_id": "42333028887"
   },
   "telegram_dialogs": [
     {
